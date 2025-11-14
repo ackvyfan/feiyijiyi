@@ -1,0 +1,494 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <title>非遗中英语料查询平台</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <style>
+    * { box-sizing: border-box; }
+    body {
+      font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans CJK SC",sans-serif;
+      margin: 0;
+      background: #f5f5f7;
+      color: #222;
+    }
+
+    /* 整体布局：左侧窄栏 + 右侧主内容 */
+    .app {
+      display: flex;
+      min-height: 100vh;
+    }
+
+    /* 左侧关键词专栏：改成类似 GPT 的灰色侧栏 */
+    .sidebar {
+      width: 240px;
+      background: #202123;        /* 深灰色，而不是蓝黑色 */
+      color: #e4e4e7;
+      display: flex;
+      flex-direction: column;
+      padding: 12px 10px;
+
+      height: 100vh;          /* 👈 关键1：左栏固定屏幕高度 */
+      overflow: hidden;       /* 👈 关键2：内容不把页面撑开 */
+    }
+    .sidebar-header {
+      padding: 8px 6px 10px;
+      border-bottom: 1px solid #3f3f46;
+      margin-bottom: 6px;
+    }
+    .sidebar-title {
+      font-size: 14px;
+      font-weight: 600;
+    }
+    .sidebar-subtitle {
+      font-size: 11px;
+      color: #a1a1aa;
+      margin-top: 2px;
+    }
+    .sidebar-count {
+      font-size: 11px;
+      color: #a1a1aa;
+      margin-top: 4px;
+    }
+    .sidebar-keywords {
+      flex: 1;
+      margin-top: 6px;
+      overflow-y: auto;
+      padding-right: 4px;
+    }
+    .keyword-chip {
+      display: block;
+      padding: 4px 8px;
+      margin: 2px 0;
+      border-radius: 6px;
+      font-size: 12px;
+      color: #e5e7eb;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+      overflow: hidden;
+      cursor: pointer;
+      transition: background 0.15s, transform 0.1s;
+    }
+    .keyword-chip:hover {
+      background: #2f3133;
+      transform: translateY(-1px);
+    }
+    .sidebar-footer {
+      font-size: 10px;
+      color: #9ca3af;
+      padding: 6px 4px 2px;
+      border-top: 1px solid #3f3f46;
+      margin-top: 4px;
+    }
+
+    /* 右侧主内容区 */
+    .main {
+      flex: 1;
+      padding: 24px;
+      max-width: calc(100vw - 240px);
+    }
+    .container {
+      max-width: 960px;
+      margin: 0 auto;
+      background: #fff;
+      border-radius: 16px;
+      box-shadow: 0 8px 24px rgba(0,0,0,0.06);
+      padding: 20px 20px 18px;
+    }
+    h1 {
+      margin: 0 0 6px;
+      font-size: 22px;
+      text-align: left;
+    }
+    .subtitle {
+      font-size: 13px;
+      color: #666;
+      margin-bottom: 10px;
+    }
+
+    .top-actions {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 8px;
+      gap: 8px;
+      flex-wrap: wrap;
+    }
+
+    .search-area {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+      flex: 1;
+    }
+    input[type="text"] {
+      flex: 1;
+      min-width: 180px;
+      padding: 9px 12px;
+      font-size: 15px;
+      border-radius: 999px;
+      border: 1px solid #ddd;
+      outline: none;
+    }
+    input[type="text"]:focus {
+      border-color: #007aff;
+      box-shadow: 0 0 0 2px rgba(0,122,255,0.15);
+    }
+    button {
+      padding: 9px 18px;
+      border-radius: 999px;
+      border: none;
+      background: #007aff;
+      color: #fff;
+      font-size: 15px;
+      cursor: pointer;
+      font-weight: 600;
+      white-space: nowrap;
+    }
+    button:hover { background: #0062cc; }
+
+    /* “返回主页面”按钮：做成次按钮样式 */
+    .secondary-btn {
+      padding: 7px 14px;
+      border-radius: 999px;
+      border: 1px solid #e5e7eb;
+      background: #f4f4f5;
+      color: #374151;
+      font-size: 13px;
+      cursor: pointer;
+      font-weight: 500;
+    }
+    .secondary-btn:hover {
+      background: #e4e4e7;
+    }
+
+    .status {
+      font-size: 12px;
+      color: #888;
+      min-height: 18px;
+      margin-bottom: 4px;
+    }
+    .current-keyword {
+      font-size: 13px;
+      color: #374151;
+      margin-bottom: 4px;
+    }
+    .results-info {
+      font-size: 12px;
+      color: #6b7280;
+      margin-bottom: 6px;
+    }
+    .result-list {
+      max-height: 520px;
+      overflow-y: auto;
+      padding-right: 4px;
+    }
+
+    .card {
+      border-radius: 12px;
+      border: 1px solid #eee;
+      padding: 10px 12px;
+      margin-bottom: 8px;
+      background: #fafafa;
+    }
+    .card-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 4px;
+    }
+    .zh-text {
+      font-weight: 600;
+      font-size: 14px;
+    }
+    .en-text {
+      font-size: 13px;
+      color: #333;
+      margin-top: 2px;
+    }
+    .tag-row {
+      margin-top: 4px;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 4px;
+      font-size: 11px;
+      color: #666;
+    }
+    .tag {
+      padding: 2px 6px;
+      border-radius: 999px;
+      background: #eef2ff;
+    }
+    .type-tag.word { background: #e0f7fa; }
+    .type-tag.sentence { background: #e8f5e9; }
+    .type-tag.paragraph { background: #fff3e0; }
+    .small-label {
+      font-size: 11px;
+      color: #999;
+      margin-top: 3px;
+    }
+
+    @media (max-width: 768px) {
+      .app {
+        flex-direction: column;
+      }
+      .sidebar {
+        width: 100%;
+        flex-direction: row;
+        flex-wrap: nowrap;
+        overflow-x: auto;
+        overflow-y: hidden;
+        align-items: center;
+      }
+      .sidebar-header {
+        border-bottom: none;
+        border-right: 1px solid #3f3f46;
+        margin-bottom: 0;
+        padding-right: 8px;
+        min-width: 140px;
+      }
+      .sidebar-keywords {
+        flex: 1;
+        white-space: nowrap;
+        margin-top: 0;
+      }
+      .keyword-chip {
+        display: inline-block;
+        margin: 2px 4px;
+      }
+      .sidebar-footer {
+        display: none;
+      }
+      .main {
+        max-width: 100%;
+        padding: 12px;
+      }
+      .container {
+        padding: 14px;
+        border-radius: 12px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="app">
+    <!-- 左侧关键词专栏 -->
+    <aside class="sidebar">
+      <div class="sidebar-header">
+        <div class="sidebar-title">所有关键词（词语）</div>
+        <div class="sidebar-subtitle">点击任意词语查看相关语料</div>
+        <div class="sidebar-count" id="keywordsCount">正在统计关键词…</div>
+      </div>
+      <div class="sidebar-keywords" id="keywordList">
+        <!-- 关键词 chip 动态生成 -->
+      </div>
+      <div class="sidebar-footer">
+        提示：此处仅展示“词语”级关键词以便搜索
+      </div>
+    </aside>
+
+    <!-- 右侧主内容 -->
+    <main class="main">
+      <div class="container">
+        <h1>潮州非遗文化中英语料查询平台</h1>
+        <div class="subtitle">
+          支持中文与英文关键词检索，涵盖词语、句子与段落等多种语料形式。
+        </div>
+
+        <div class="top-actions">
+          <div class="search-area">
+            <input id="searchInput" type="text" placeholder="例如：嵌瓷 / inlaid porcelain / 潮州工夫茶艺…" />
+            <button id="searchBtn">搜索</button>
+          </div>
+          <!-- 返回主页面按钮 -->
+          <button id="resetBtn" class="secondary-btn">返回主页面</button>
+        </div>
+
+        <div id="status" class="status">正在加载语料数据 corpus.json…</div>
+        <div id="currentKeywordTitle" class="current-keyword" style="display:none;"></div>
+        <div id="resultsInfo" class="results-info" style="display:none;"></div>
+        <div id="resultList" class="result-list"></div>
+      </div>
+    </main>
+  </div>
+
+  <script>
+    const inputEl   = document.getElementById('searchInput');
+    const btnEl     = document.getElementById('searchBtn');
+    const resetBtn  = document.getElementById('resetBtn');
+    const statusEl  = document.getElementById('status');
+    const infoEl    = document.getElementById('resultsInfo');
+    const listEl    = document.getElementById('resultList');
+    const currentKeywordTitleEl = document.getElementById('currentKeywordTitle');
+
+    const keywordListEl   = document.getElementById('keywordList');
+    const keywordsCountEl = document.getElementById('keywordsCount');
+
+    let corpus = [];
+    let allKeywords = []; // 仅从“词语”（type=word）中提取的关键词
+
+    // 读 corpus.json 并生成关键词（只用 type === 'word' 的项）
+    fetch('corpus.json')
+      .then(res => {
+        if (!res.ok) {
+          throw new Error('HTTP 状态码：' + res.status);
+        }
+        return res.json();
+      })
+      .then(json => {
+        corpus = json;
+        statusEl.textContent = `语料加载完成，共 ${corpus.length} 条记录。`;
+
+        const set = new Set();
+        const wordItems = corpus.filter(item => item.type === 'word'); // 只取“词语”
+        wordItems.forEach(item => {
+          if (item.zh && item.zh.trim()) set.add(item.zh.trim());
+          if (item.en && item.en.trim()) set.add(item.en.trim());
+        });
+        allKeywords = Array.from(set);
+        allKeywords.sort((a, b) => a.localeCompare(b, 'zh-CN'));
+
+        keywordsCountEl.textContent = `共 ${allKeywords.length} 个词语关键词`;
+        renderKeywordList();
+      })
+      .catch(err => {
+        console.error('加载 corpus.json 出错：', err);
+        statusEl.textContent = '语料加载失败：' + err.message;
+      });
+
+    // 渲染左侧关键词专栏
+    function renderKeywordList() {
+      if (!allKeywords.length) {
+        keywordListEl.innerHTML = '<div style="font-size:11px;color:#9ca3af;">暂无可用词语关键词。</div>';
+        return;
+      }
+
+      keywordListEl.innerHTML = allKeywords.map(k => `
+        <span class="keyword-chip" data-key="${k.replace(/"/g, '&quot;')}">${k}</span>
+      `).join('');
+
+      keywordListEl.onclick = function(e) {
+        const target = e.target;
+        if (target.classList.contains('keyword-chip')) {
+          const key = target.getAttribute('data-key');
+          openKeywordDetail(key);
+        }
+      };
+    }
+
+    // 从左侧词语打开详情（右侧主区域展示对应语料）
+    function openKeywordDetail(keyword) {
+      if (!corpus.length) return;
+
+      inputEl.value = keyword;  // 同步填到搜索框
+      const keyLower = keyword.toLowerCase();
+      const hasChinese = /[\u4e00-\u9fa5]/.test(keyword);
+
+      const results = corpus.filter(item => {
+        const zh = (item.zh || '');
+        const en = (item.en || '');
+        if (hasChinese) {
+          return zh.includes(keyword);
+        } else {
+          return zh.toLowerCase().includes(keyLower) || en.toLowerCase().includes(keyLower);
+        }
+      });
+
+      currentKeywordTitleEl.style.display = 'block';
+      currentKeywordTitleEl.textContent = `当前关键词：${keyword}`;
+      infoEl.style.display = 'block';
+      infoEl.textContent = `共 ${results.length} 条相关语料`;
+      statusEl.textContent = '';
+
+      renderResults(results, listEl);
+    }
+
+    // 搜索功能（右侧搜索框）
+    function doSearch() {
+      const q = inputEl.value.trim();
+      if (!q) {
+        statusEl.textContent = '请输入要搜索的中文或英文关键词。';
+        infoEl.style.display = 'none';
+        currentKeywordTitleEl.style.display = 'none';
+        listEl.innerHTML = '';
+        return;
+      }
+      if (!corpus.length) {
+        statusEl.textContent = '语料尚未加载完成，请稍后再试。';
+        return;
+      }
+
+      statusEl.textContent = '';
+      const qLower = q.toLowerCase();
+      const hasChinese = /[\u4e00-\u9fa5]/.test(q);
+
+      const results = corpus.filter(item => {
+        const zh = (item.zh || '');
+        const en = (item.en || '');
+        if (hasChinese) {
+          return zh.includes(q);
+        } else {
+          return zh.toLowerCase().includes(qLower) || en.toLowerCase().includes(qLower);
+        }
+      });
+
+      currentKeywordTitleEl.style.display = 'block';
+      currentKeywordTitleEl.textContent = `搜索：${q}`;
+      infoEl.style.display = 'block';
+      infoEl.textContent = `找到 ${results.length} 条结果`;
+
+      renderResults(results, listEl);
+    }
+
+    // “返回主页面”按钮：恢复初始状态
+    function resetHome() {
+      inputEl.value = '';
+      currentKeywordTitleEl.style.display = 'none';
+      infoEl.style.display = 'none';
+      listEl.innerHTML = '';
+      if (corpus.length) {
+        statusEl.textContent = `语料加载完成，共 ${corpus.length} 条记录。`;
+      } else {
+        statusEl.textContent = '';
+      }
+    }
+
+    // 通用结果渲染
+    function renderResults(list, mountEl) {
+      if (!list.length) {
+        mountEl.innerHTML = '<div class="small-label">没有匹配结果，可以尝试换一个关键词。</div>';
+        return;
+      }
+      const html = list.map(item => {
+        const typeMap = { word: '词语', sentence: '句子', paragraph: '段落' };
+        const typeLabel = typeMap[item.type] || item.type;
+        const typeClass = item.type || '';
+
+        return `
+          <div class="card">
+            <div class="card-header">
+              <div class="zh-text">${item.zh || '<span style="color:#aaa;">（无中文）</span>'}</div>
+              <div class="tag type-tag ${typeClass}">${typeLabel}</div>
+            </div>
+            <div class="en-text">${item.en || '<span style="color:#aaa;">（无英文）</span>'}</div>
+            <div class="tag-row">
+              ${item.project ? `<span class="tag">非遗项目：${item.project}</span>` : ''}
+              ${item.category ? `<span class="tag">类别：${item.category}</span>` : ''}
+              ${item.strategy ? `<span class="tag">翻译策略：${item.strategy}</span>` : ''}
+              ${item.source ? `<span class="tag">来源：${item.source}</span>` : ''}
+            </div>
+          </div>
+        `;
+      }).join('');
+      mountEl.innerHTML = html;
+    }
+
+    // 事件绑定
+    btnEl.addEventListener('click', doSearch);
+    inputEl.addEventListener('keydown', e => {
+      if (e.key === 'Enter') doSearch();
+    });
+    resetBtn.addEventListener('click', resetHome);
+  </script>
+</body>
+</html>

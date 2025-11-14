@@ -1,0 +1,4682 @@
+[
+  {
+    "id": "w_1",
+    "type": "word",
+    "zh": "茶艺（潮州功夫茶艺）",
+    "en": "tea art（Chaozhou Congou Tea Art）",
+    "project": "潮州工夫茶艺",
+    "category": "民俗",
+    "strategy": "直译",
+    "source": "UNESCO官网非遗文本"
+  },
+  {
+    "id": "w_2",
+    "type": "word",
+    "zh": "乌龙茶",
+    "en": "Oolong tea",
+    "project": "潮州工夫茶艺",
+    "category": "分类",
+    "strategy": "直译",
+    "source": "UNESCO官网非遗文本"
+  },
+  {
+    "id": "w_3",
+    "type": "word",
+    "zh": "大红袍",
+    "en": "Dahonggpao Tea",
+    "project": "潮州工夫茶艺",
+    "category": "分类",
+    "strategy": "直译",
+    "source": "百度文库"
+  },
+  {
+    "id": "w_4",
+    "type": "word",
+    "zh": "铁观音",
+    "en": "Tieguanyin Tea",
+    "project": "潮州工夫茶艺",
+    "category": "分类",
+    "strategy": "直译",
+    "source": "百度文库"
+  },
+  {
+    "id": "w_5",
+    "type": "word",
+    "zh": "凤凰单从（枞）茶",
+    "en": "Fenghuang Dancong（Single Clump）Tea",
+    "project": "潮州工夫茶艺",
+    "category": "分类",
+    "strategy": "直译",
+    "source": "百度文库"
+  },
+  {
+    "id": "w_6",
+    "type": "word",
+    "zh": "烧水",
+    "en": "heat up water",
+    "project": "潮州工夫茶艺",
+    "category": "冲泡程式",
+    "strategy": "直译",
+    "source": "百度文库"
+  },
+  {
+    "id": "w_7",
+    "type": "word",
+    "zh": "茶艺表演",
+    "en": "tea ceremony performance",
+    "project": "潮州工夫茶艺",
+    "category": "冲泡程式",
+    "strategy": "直译",
+    "source": "百度文库"
+  },
+  {
+    "id": "w_8",
+    "type": "word",
+    "zh": "盖碗",
+    "en": "gaiwan",
+    "project": "潮州工夫茶艺",
+    "category": "冲泡程式",
+    "strategy": "直译",
+    "source": "百度文库"
+  },
+  {
+    "id": "w_9",
+    "type": "word",
+    "zh": "温杯洁具",
+    "en": "pour into the hot water until half - full, then throw the water out of the teapot. It can warm up the teacup",
+    "project": "潮州工夫茶艺",
+    "category": "冲泡程式",
+    "strategy": "意译",
+    "source": "百度文库"
+  },
+  {
+    "id": "w_10",
+    "type": "word",
+    "zh": "壶纳乌龙",
+    "en": "use the shovel to get some tea and put the Oolong tea into the teapot",
+    "project": "潮州工夫茶艺",
+    "category": "冲泡程式",
+    "strategy": "意译",
+    "source": "百度文库"
+  },
+  {
+    "id": "w_11",
+    "type": "word",
+    "zh": "提铫高冲",
+    "en": "lift up the pot and pour the water into the pot, the tea-leaf will flowing with the waterr in this way, we can wash the tea and force the smell of tea come out",
+    "project": "潮州工夫茶艺",
+    "category": "冲泡程式",
+    "strategy": "意译",
+    "source": "百度文库"
+  },
+  {
+    "id": "w_12",
+    "type": "word",
+    "zh": "春风拂面",
+    "en": "use the cover of teacup to scratch the bubble on the surface",
+    "project": "潮州工夫茶艺",
+    "category": "冲泡程式",
+    "strategy": "意译",
+    "source": "百度文库"
+  },
+  {
+    "id": "w_13",
+    "type": "word",
+    "zh": "若琛出浴",
+    "en": "use the tea to warm up the cup, in this process, we should turn the cup around",
+    "project": "潮州工夫茶艺",
+    "category": "冲泡程式",
+    "strategy": "意译",
+    "source": "百度文库"
+  },
+  {
+    "id": "w_14",
+    "type": "word",
+    "zh": "关公巡城",
+    "en": "pour the tea into every cup in order",
+    "project": "潮州工夫茶艺",
+    "category": "冲泡程式",
+    "strategy": "意译",
+    "source": "百度文库"
+  },
+  {
+    "id": "w_15",
+    "type": "word",
+    "zh": "韩信点兵",
+    "en": "when the tea is nearly ran out, put the rest of tea into every cup",
+    "project": "潮州工夫茶艺",
+    "category": "冲泡程式",
+    "strategy": "意译",
+    "source": "百度文库"
+  },
+  {
+    "id": "w_16",
+    "type": "word",
+    "zh": "敬奉香茗",
+    "en": "offer the fragrant tea respectfully",
+    "project": "潮州工夫茶艺",
+    "category": "冲泡程式",
+    "strategy": "直译",
+    "source": "百度文库"
+  },
+  {
+    "id": "w_17",
+    "type": "word",
+    "zh": "三龙护鼎",
+    "en": "use the thumb and the index finger to hold the body of the cup,and use the middle finger to support the cup",
+    "project": "潮州工夫茶艺",
+    "category": "冲泡程式",
+    "strategy": "意译",
+    "source": "百度文库"
+  },
+  {
+    "id": "w_18",
+    "type": "word",
+    "zh": "鉴赏汤色",
+    "en": "drink the tea, before that, watch its color carefully",
+    "project": "潮州工夫茶艺",
+    "category": "冲泡程式",
+    "strategy": "意译",
+    "source": "百度文库"
+  },
+  {
+    "id": "w_19",
+    "type": "word",
+    "zh": "细闻幽香",
+    "en": "smell its fragrance, the laurel smell, the orchid smell will definitely make you pleasant",
+    "project": "潮州工夫茶艺",
+    "category": "冲泡程式",
+    "strategy": "意译",
+    "source": "百度文库"
+  },
+  {
+    "id": "w_20",
+    "type": "word",
+    "zh": "品啜甘霖",
+    "en": "drink the tea and there is a special kind of feeling when you hold the tea in your mouth and drink it very slowly into your heart",
+    "project": "潮州工夫茶艺",
+    "category": "冲泡程式",
+    "strategy": "意译",
+    "source": "百度文库"
+  },
+  {
+    "id": "w_21",
+    "type": "word",
+    "zh": "晒青",
+    "en": "sun-withering",
+    "project": "潮州工夫茶艺",
+    "category": "制作工序",
+    "strategy": "直译",
+    "source": "国际茶委会工艺报告"
+  },
+  {
+    "id": "w_22",
+    "type": "word",
+    "zh": "晾青",
+    "en": "air-withering",
+    "project": "潮州工夫茶艺",
+    "category": "制作工序",
+    "strategy": "直译",
+    "source": "相关教材"
+  },
+  {
+    "id": "w_23",
+    "type": "word",
+    "zh": "做青",
+    "en": "leaf-tossing and fermening",
+    "project": "潮州工夫茶艺",
+    "category": "制作工序",
+    "strategy": "直译",
+    "source": "乌龙茶产区宣传资料"
+  },
+  {
+    "id": "w_24",
+    "type": "word",
+    "zh": "炒青",
+    "en": "fixing",
+    "project": "潮州工夫茶艺",
+    "category": "制作工序",
+    "strategy": "意译",
+    "source": "学术论文"
+  },
+  {
+    "id": "w_25",
+    "type": "word",
+    "zh": "揉捻",
+    "en": "rolling",
+    "project": "潮州工夫茶艺",
+    "category": "制作工序",
+    "strategy": "直译",
+    "source": "相关教材"
+  },
+  {
+    "id": "w_26",
+    "type": "word",
+    "zh": "烘培",
+    "en": "roasting",
+    "project": "潮州工夫茶艺",
+    "category": "制作工序",
+    "strategy": "直译",
+    "source": "国际茶委会工艺报告"
+  },
+  {
+    "id": "w_27",
+    "type": "word",
+    "zh": "炭炉",
+    "en": "charcoal stove",
+    "project": "潮州工夫茶艺",
+    "category": "品茶用具",
+    "strategy": "直译",
+    "source": "百度文库"
+  },
+  {
+    "id": "w_28",
+    "type": "word",
+    "zh": "电随手泡",
+    "en": "an instant electrical kettle",
+    "project": "潮州工夫茶艺",
+    "category": "品茶用具",
+    "strategy": "意译",
+    "source": "百度文库"
+  },
+  {
+    "id": "w_29",
+    "type": "word",
+    "zh": "陶壶",
+    "en": "a pottery kettle",
+    "project": "潮州工夫茶艺",
+    "category": "品茶用具",
+    "strategy": "直译",
+    "source": "百度文库"
+  },
+  {
+    "id": "w_30",
+    "type": "word",
+    "zh": "紫砂壶",
+    "en": "a boccaro teapot",
+    "project": "潮州工夫茶艺",
+    "category": "品茶用具",
+    "strategy": "直译",
+    "source": "百度文库"
+  },
+  {
+    "id": "w_31",
+    "type": "word",
+    "zh": "瓷壶",
+    "en": "a porcelain teapot",
+    "project": "潮州工夫茶艺",
+    "category": "品茶用具",
+    "strategy": "直译",
+    "source": "百度文库"
+  },
+  {
+    "id": "w_32",
+    "type": "word",
+    "zh": "盖碗",
+    "en": "a covered teacup",
+    "project": "潮州工夫茶艺",
+    "category": "品茶用具",
+    "strategy": "意译",
+    "source": "百度文库"
+  },
+  {
+    "id": "w_33",
+    "type": "word",
+    "zh": "闻香杯",
+    "en": "sniff-cup/fragrance-smelling cup",
+    "project": "潮州工夫茶艺",
+    "category": "品茶用具",
+    "strategy": "直译",
+    "source": "百度文库"
+  },
+  {
+    "id": "w_34",
+    "type": "word",
+    "zh": "品茗杯",
+    "en": "the tea-sipping cup",
+    "project": "潮州工夫茶艺",
+    "category": "品茶用具",
+    "strategy": "直译",
+    "source": "百度文库"
+  },
+  {
+    "id": "w_35",
+    "type": "word",
+    "zh": "茶叶罐",
+    "en": "a tea canister",
+    "project": "潮州工夫茶艺",
+    "category": "品茶用具",
+    "strategy": "直译",
+    "source": "百度文库"
+  },
+  {
+    "id": "w_36",
+    "type": "word",
+    "zh": "水盂",
+    "en": "a tea basin",
+    "project": "潮州工夫茶艺",
+    "category": "品茶用具",
+    "strategy": "意译",
+    "source": "百度文库"
+  },
+  {
+    "id": "w_37",
+    "type": "word",
+    "zh": "茶盘",
+    "en": "a tea tray",
+    "project": "潮州工夫茶艺",
+    "category": "品茶用具",
+    "strategy": "直译",
+    "source": "百度文库"
+  },
+  {
+    "id": "w_38",
+    "type": "word",
+    "zh": "托盘",
+    "en": "a tea serving tray",
+    "project": "潮州工夫茶艺",
+    "category": "品茶用具",
+    "strategy": "直译",
+    "source": "百度文库"
+  },
+  {
+    "id": "w_39",
+    "type": "word",
+    "zh": "公道杯",
+    "en": "a Fair mug (Gongdao Mug)",
+    "project": "潮州工夫茶艺",
+    "category": "品茶用具",
+    "strategy": "直译+意译",
+    "source": "百度文库"
+  },
+  {
+    "id": "w_40",
+    "type": "word",
+    "zh": "过滤网",
+    "en": "a filter",
+    "project": "潮州工夫茶艺",
+    "category": "品茶用具",
+    "strategy": "意译",
+    "source": "百度文库"
+  },
+  {
+    "id": "w_41",
+    "type": "word",
+    "zh": "茶夹",
+    "en": "the tea tongs",
+    "project": "潮州工夫茶艺",
+    "category": "品茶用具",
+    "strategy": "直译",
+    "source": "百度文库"
+  },
+  {
+    "id": "w_42",
+    "type": "word",
+    "zh": "乌龙茶",
+    "en": "Oolong tea",
+    "project": "潮州工夫茶艺",
+    "category": "分类",
+    "strategy": "直译",
+    "source": "UNESCO官网非遗文本"
+  },
+  {
+    "id": "w_43",
+    "type": "word",
+    "zh": "大红袍",
+    "en": "Dahonggpao Tea",
+    "project": "潮州工夫茶艺",
+    "category": "分类",
+    "strategy": "直译",
+    "source": "百度文库"
+  },
+  {
+    "id": "w_44",
+    "type": "word",
+    "zh": "铁观音",
+    "en": "Tieguanyin Tea",
+    "project": "潮州工夫茶艺",
+    "category": "分类",
+    "strategy": "直译",
+    "source": "百度文库"
+  },
+  {
+    "id": "w_45",
+    "type": "word",
+    "zh": "凤凰单从（枞）茶",
+    "en": "Fenghuang Dancong（Single Clump）Tea",
+    "project": "潮州工夫茶艺",
+    "category": "分类",
+    "strategy": "直译",
+    "source": "百度文库"
+  },
+  {
+    "id": "w_46",
+    "type": "word",
+    "zh": "烧水",
+    "en": "heat up water",
+    "project": "潮州工夫茶艺",
+    "category": "冲泡程式",
+    "strategy": "直译",
+    "source": "百度文库"
+  },
+  {
+    "id": "w_47",
+    "type": "word",
+    "zh": "茶艺表演",
+    "en": "tea ceremony performance",
+    "project": "潮州工夫茶艺",
+    "category": "冲泡程式",
+    "strategy": "直译",
+    "source": "百度文库"
+  },
+  {
+    "id": "w_48",
+    "type": "word",
+    "zh": "盖碗",
+    "en": "gaiwan",
+    "project": "潮州工夫茶艺",
+    "category": "冲泡程式",
+    "strategy": "直译",
+    "source": "百度文库"
+  },
+  {
+    "id": "w_49",
+    "type": "word",
+    "zh": "晒青",
+    "en": "sun-withering",
+    "project": "潮州工夫茶艺",
+    "category": "制作工序",
+    "strategy": "直译",
+    "source": "国际茶委会工艺报告"
+  },
+  {
+    "id": "w_50",
+    "type": "word",
+    "zh": "晾青",
+    "en": "air-withering",
+    "project": "潮州工夫茶艺",
+    "category": "制作工序",
+    "strategy": "直译",
+    "source": "相关教材"
+  },
+  {
+    "id": "w_51",
+    "type": "word",
+    "zh": "做青",
+    "en": "leaf-tossing and fermening",
+    "project": "潮州工夫茶艺",
+    "category": "制作工序",
+    "strategy": "直译",
+    "source": "乌龙茶产区宣传资料"
+  },
+  {
+    "id": "w_52",
+    "type": "word",
+    "zh": "炒青",
+    "en": "fixing",
+    "project": "潮州工夫茶艺",
+    "category": "制作工序",
+    "strategy": "意译",
+    "source": "学术论文"
+  },
+  {
+    "id": "w_53",
+    "type": "word",
+    "zh": "揉捻",
+    "en": "rolling",
+    "project": "潮州工夫茶艺",
+    "category": "制作工序",
+    "strategy": "直译",
+    "source": "相关教材"
+  },
+  {
+    "id": "w_54",
+    "type": "word",
+    "zh": "烘培",
+    "en": "roasting",
+    "project": "潮州工夫茶艺",
+    "category": "制作工序",
+    "strategy": "直译",
+    "source": "国际茶委会工艺报告"
+  },
+  {
+    "id": "w_55",
+    "type": "word",
+    "zh": "炭炉",
+    "en": "charcoal stove",
+    "project": "潮州工夫茶艺",
+    "category": "品茶用具",
+    "strategy": "直译",
+    "source": "百度文库"
+  },
+  {
+    "id": "w_56",
+    "type": "word",
+    "zh": "电随手泡",
+    "en": "an instant electrical kettle",
+    "project": "潮州工夫茶艺",
+    "category": "品茶用具",
+    "strategy": "意译",
+    "source": "百度文库"
+  },
+  {
+    "id": "w_57",
+    "type": "word",
+    "zh": "陶壶",
+    "en": "a pottery kettle",
+    "project": "潮州工夫茶艺",
+    "category": "品茶用具",
+    "strategy": "直译",
+    "source": "百度文库"
+  },
+  {
+    "id": "w_58",
+    "type": "word",
+    "zh": "紫砂壶",
+    "en": "a boccaro teapot",
+    "project": "潮州工夫茶艺",
+    "category": "品茶用具",
+    "strategy": "直译",
+    "source": "百度文库"
+  },
+  {
+    "id": "w_59",
+    "type": "word",
+    "zh": "瓷壶",
+    "en": "a porcelain teapot",
+    "project": "潮州工夫茶艺",
+    "category": "品茶用具",
+    "strategy": "直译",
+    "source": "百度文库"
+  },
+  {
+    "id": "w_60",
+    "type": "word",
+    "zh": "盖碗",
+    "en": "a covered teacup",
+    "project": "潮州工夫茶艺",
+    "category": "品茶用具",
+    "strategy": "意译",
+    "source": "百度文库"
+  },
+  {
+    "id": "w_61",
+    "type": "word",
+    "zh": "闻香杯",
+    "en": "sniff-cup/fragrance-smelling cup",
+    "project": "潮州工夫茶艺",
+    "category": "品茶用具",
+    "strategy": "直译",
+    "source": "百度文库"
+  },
+  {
+    "id": "w_62",
+    "type": "word",
+    "zh": "品茗杯",
+    "en": "the tea-sipping cup",
+    "project": "潮州工夫茶艺",
+    "category": "品茶用具",
+    "strategy": "直译",
+    "source": "百度文库"
+  },
+  {
+    "id": "w_63",
+    "type": "word",
+    "zh": "茶叶罐",
+    "en": "a tea canister",
+    "project": "潮州工夫茶艺",
+    "category": "品茶用具",
+    "strategy": "直译",
+    "source": "百度文库"
+  },
+  {
+    "id": "w_64",
+    "type": "word",
+    "zh": "水盂",
+    "en": "a tea basin",
+    "project": "潮州工夫茶艺",
+    "category": "品茶用具",
+    "strategy": "意译",
+    "source": "百度文库"
+  },
+  {
+    "id": "w_65",
+    "type": "word",
+    "zh": "茶盘",
+    "en": "a tea tray",
+    "project": "潮州工夫茶艺",
+    "category": "品茶用具",
+    "strategy": "直译",
+    "source": "百度文库"
+  },
+  {
+    "id": "w_66",
+    "type": "word",
+    "zh": "托盘",
+    "en": "a tea serving tray",
+    "project": "潮州工夫茶艺",
+    "category": "品茶用具",
+    "strategy": "直译",
+    "source": "百度文库"
+  },
+  {
+    "id": "w_67",
+    "type": "word",
+    "zh": "公道杯",
+    "en": "a Fair mug (Gongdao Mug)",
+    "project": "潮州工夫茶艺",
+    "category": "品茶用具",
+    "strategy": "直译+意译",
+    "source": "百度文库"
+  },
+  {
+    "id": "w_68",
+    "type": "word",
+    "zh": "过滤网",
+    "en": "a filter",
+    "project": "潮州工夫茶艺",
+    "category": "品茶用具",
+    "strategy": "意译",
+    "source": "百度文库"
+  },
+  {
+    "id": "w_69",
+    "type": "word",
+    "zh": "茶夹",
+    "en": "the tea tongs",
+    "project": "潮州工夫茶艺",
+    "category": "品茶用具",
+    "strategy": "直译",
+    "source": "百度文库"
+  },
+  {
+    "id": "w_70",
+    "type": "word",
+    "zh": "镶嵌（潮州嵌瓷）",
+    "en": "inlaid porcelain/porcelain inlay",
+    "project": "潮州嵌瓷",
+    "category": "传统美术",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "w_71",
+    "type": "word",
+    "zh": "釉陶",
+    "en": "faience",
+    "project": "潮州嵌瓷",
+    "category": "相关术语",
+    "strategy": "直译",
+    "source": "深圳博语翻译"
+  },
+  {
+    "id": "w_72",
+    "type": "word",
+    "zh": "凹雕",
+    "en": "intaglio",
+    "project": "潮州嵌瓷",
+    "category": "工艺技法",
+    "strategy": "",
+    "source": "深圳博语翻译"
+  },
+  {
+    "id": "w_73",
+    "type": "word",
+    "zh": "玻璃化",
+    "en": "vitrify",
+    "project": "潮州嵌瓷",
+    "category": "工艺技法",
+    "strategy": "",
+    "source": "深圳博语翻译"
+  },
+  {
+    "id": "w_74",
+    "type": "word",
+    "zh": "车削",
+    "en": "turning",
+    "project": "潮州嵌瓷",
+    "category": "工艺技法",
+    "strategy": "",
+    "source": "深圳博语翻译"
+  },
+  {
+    "id": "w_75",
+    "type": "word",
+    "zh": "成型",
+    "en": "forming",
+    "project": "潮州嵌瓷",
+    "category": "工艺技法",
+    "strategy": "",
+    "source": "深圳博语翻译"
+  },
+  {
+    "id": "w_76",
+    "type": "word",
+    "zh": "冲压",
+    "en": "repoussé",
+    "project": "潮州嵌瓷",
+    "category": "工艺技法",
+    "strategy": "",
+    "source": "深圳博语翻译"
+  },
+  {
+    "id": "w_77",
+    "type": "word",
+    "zh": "瓷土加工",
+    "en": "clay processing",
+    "project": "潮州嵌瓷",
+    "category": "工艺技法",
+    "strategy": "",
+    "source": "深圳博语翻译"
+  },
+  {
+    "id": "w_78",
+    "type": "word",
+    "zh": "雕刻",
+    "en": "carving",
+    "project": "潮州嵌瓷",
+    "category": "工艺技法",
+    "strategy": "",
+    "source": "深圳博语翻译"
+  },
+  {
+    "id": "w_79",
+    "type": "word",
+    "zh": "浮雕",
+    "en": "relief",
+    "project": "潮州嵌瓷",
+    "category": "工艺技法",
+    "strategy": "",
+    "source": "深圳博语翻译"
+  },
+  {
+    "id": "w_80",
+    "type": "word",
+    "zh": "隔焰窑",
+    "en": "muffle kiln",
+    "project": "潮州嵌瓷",
+    "category": "工艺技法",
+    "strategy": "",
+    "source": "深圳博语翻译"
+  },
+  {
+    "id": "w_81",
+    "type": "word",
+    "zh": "硅氧键",
+    "en": "silicon-oxygen bond",
+    "project": "潮州嵌瓷",
+    "category": "工艺技法",
+    "strategy": "",
+    "source": "深圳博语翻译"
+  },
+  {
+    "id": "w_82",
+    "type": "word",
+    "zh": "间断窑",
+    "en": "intermittent kiln",
+    "project": "潮州嵌瓷",
+    "category": "工艺技法",
+    "strategy": "",
+    "source": "深圳博语翻译"
+  },
+  {
+    "id": "w_83",
+    "type": "word",
+    "zh": "浇铸",
+    "en": "casting",
+    "project": "潮州嵌瓷",
+    "category": "工艺技法",
+    "strategy": "",
+    "source": "深圳博语翻译"
+  },
+  {
+    "id": "w_84",
+    "type": "word",
+    "zh": "拉毛",
+    "en": "sgraffito",
+    "project": "潮州嵌瓷",
+    "category": "工艺技法",
+    "strategy": "",
+    "source": "深圳博语翻译"
+  },
+  {
+    "id": "w_85",
+    "type": "word",
+    "zh": "连续窑",
+    "en": "continuous kiln",
+    "project": "潮州嵌瓷",
+    "category": "工艺技法",
+    "strategy": "",
+    "source": "深圳博语翻译"
+  },
+  {
+    "id": "w_86",
+    "type": "word",
+    "zh": "镂雕/镂空",
+    "en": "piercing",
+    "project": "潮州嵌瓷",
+    "category": "工艺技法",
+    "strategy": "",
+    "source": "深圳博语翻译"
+  },
+  {
+    "id": "w_87",
+    "type": "word",
+    "zh": "辘轳车",
+    "en": "jigger",
+    "project": "潮州嵌瓷",
+    "category": "工艺技法",
+    "strategy": "",
+    "source": "深圳博语翻译"
+  },
+  {
+    "id": "w_88",
+    "type": "word",
+    "zh": "泥釉彩饰法",
+    "en": "trailing",
+    "project": "潮州嵌瓷",
+    "category": "工艺技法",
+    "strategy": "",
+    "source": "深圳博语翻译"
+  },
+  {
+    "id": "w_89",
+    "type": "word",
+    "zh": "碾磨",
+    "en": "grinding",
+    "project": "潮州嵌瓷",
+    "category": "工艺技法",
+    "strategy": "",
+    "source": "深圳博语翻译"
+  },
+  {
+    "id": "w_90",
+    "type": "word",
+    "zh": "抛光",
+    "en": "polishing, burnishing",
+    "project": "潮州嵌瓷",
+    "category": "工艺技法",
+    "strategy": "",
+    "source": "深圳博语翻译"
+  },
+  {
+    "id": "w_91",
+    "type": "word",
+    "zh": "破裂",
+    "en": "chip",
+    "project": "潮州嵌瓷",
+    "category": "工艺技法",
+    "strategy": "",
+    "source": "深圳博语翻译"
+  },
+  {
+    "id": "w_92",
+    "type": "word",
+    "zh": "嵌入",
+    "en": "inlay",
+    "project": "潮州嵌瓷",
+    "category": "工艺技法",
+    "strategy": "",
+    "source": "深圳博语翻译"
+  },
+  {
+    "id": "w_93",
+    "type": "word",
+    "zh": "浓黄",
+    "en": "sienna gold",
+    "project": "潮州嵌瓷",
+    "category": "颜色",
+    "strategy": "",
+    "source": "深圳博语翻译"
+  },
+  {
+    "id": "w_94",
+    "type": "word",
+    "zh": "绿玉色",
+    "en": "jade green",
+    "project": "潮州嵌瓷",
+    "category": "颜色",
+    "strategy": "",
+    "source": "深圳博语翻译"
+  },
+  {
+    "id": "w_95",
+    "type": "word",
+    "zh": "芥末色",
+    "en": "mustard",
+    "project": "潮州嵌瓷",
+    "category": "颜色",
+    "strategy": "",
+    "source": "深圳博语翻译"
+  },
+  {
+    "id": "w_96",
+    "type": "word",
+    "zh": "紫红",
+    "en": "purplish red",
+    "project": "潮州嵌瓷",
+    "category": "颜色",
+    "strategy": "",
+    "source": "深圳博语翻译"
+  },
+  {
+    "id": "w_97",
+    "type": "word",
+    "zh": "棕色",
+    "en": "brown",
+    "project": "潮州嵌瓷",
+    "category": "颜色",
+    "strategy": "",
+    "source": "深圳博语翻译"
+  },
+  {
+    "id": "w_98",
+    "type": "word",
+    "zh": "深蓝",
+    "en": "cobalt blue",
+    "project": "潮州嵌瓷",
+    "category": "颜色",
+    "strategy": "",
+    "source": "深圳博语翻译"
+  },
+  {
+    "id": "w_99",
+    "type": "word",
+    "zh": "镉红",
+    "en": "cadmium red",
+    "project": "潮州嵌瓷",
+    "category": "颜色",
+    "strategy": "",
+    "source": "深圳博语翻译"
+  },
+  {
+    "id": "w_100",
+    "type": "word",
+    "zh": "乳黄",
+    "en": "cream",
+    "project": "潮州嵌瓷",
+    "category": "颜色",
+    "strategy": "",
+    "source": "深圳博语翻译"
+  },
+  {
+    "id": "w_101",
+    "type": "word",
+    "zh": "粉红",
+    "en": "pink",
+    "project": "潮州嵌瓷",
+    "category": "颜色",
+    "strategy": "",
+    "source": "深圳博语翻译"
+  },
+  {
+    "id": "w_102",
+    "type": "word",
+    "zh": "苹果绿",
+    "en": "apple green",
+    "project": "潮州嵌瓷",
+    "category": "颜色",
+    "strategy": "",
+    "source": "深圳博语翻译"
+  },
+  {
+    "id": "w_103",
+    "type": "word",
+    "zh": "抛光",
+    "en": "polishing, burnishing",
+    "project": "潮州嵌瓷",
+    "category": "工艺技法",
+    "strategy": "",
+    "source": "深圳博语翻译"
+  },
+  {
+    "id": "w_104",
+    "type": "word",
+    "zh": "破裂",
+    "en": "chip",
+    "project": "潮州嵌瓷",
+    "category": "工艺技法",
+    "strategy": "",
+    "source": "深圳博语翻译"
+  },
+  {
+    "id": "w_105",
+    "type": "word",
+    "zh": "嵌入",
+    "en": "inlay",
+    "project": "潮州嵌瓷",
+    "category": "工艺技法",
+    "strategy": "",
+    "source": "深圳博语翻译"
+  },
+  {
+    "id": "w_106",
+    "type": "word",
+    "zh": "木雕",
+    "en": "wood carving",
+    "project": "潮州木雕",
+    "category": "传统美术",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "w_107",
+    "type": "word",
+    "zh": "木料",
+    "en": "wood",
+    "project": "潮州木雕",
+    "category": "材料",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_108",
+    "type": "word",
+    "zh": "凹雕",
+    "en": "intaglio carving",
+    "project": "潮州木雕",
+    "category": "分类",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_109",
+    "type": "word",
+    "zh": "浮雕",
+    "en": "relief carving",
+    "project": "潮州木雕",
+    "category": "分类",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_110",
+    "type": "word",
+    "zh": "圆雕",
+    "en": "round carving",
+    "project": "潮州木雕",
+    "category": "分类",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_111",
+    "type": "word",
+    "zh": "珐琅雕",
+    "en": "enamel carving",
+    "project": "潮州木雕",
+    "category": "分类",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_112",
+    "type": "word",
+    "zh": "锣雕",
+    "en": "gong carving",
+    "project": "潮州木雕",
+    "category": "分类",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_113",
+    "type": "word",
+    "zh": "穿透雕",
+    "en": "penetrative carving",
+    "project": "潮州木雕",
+    "category": "分类",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_114",
+    "type": "word",
+    "zh": "金漆木雕",
+    "en": "Gold-lacquered wood",
+    "project": "潮州木雕",
+    "category": "分类",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_115",
+    "type": "word",
+    "zh": "鹰雕/钳雕",
+    "en": "eagle carving/Tong carving",
+    "project": "潮州木雕",
+    "category": "分类",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_116",
+    "type": "word",
+    "zh": "漆料",
+    "en": "lacquer",
+    "project": "潮州木雕",
+    "category": "材料",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_117",
+    "type": "word",
+    "zh": "冷杉",
+    "en": "fir",
+    "project": "潮州木雕",
+    "category": "材料",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_118",
+    "type": "word",
+    "zh": "樟脑",
+    "en": "camphor",
+    "project": "潮州木雕",
+    "category": "材料",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_119",
+    "type": "word",
+    "zh": "颜料",
+    "en": "pigment",
+    "project": "潮州木雕",
+    "category": "材料",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_120",
+    "type": "word",
+    "zh": "金属粉箔",
+    "en": "foil",
+    "project": "潮州木雕",
+    "category": "材料",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_121",
+    "type": "word",
+    "zh": "叩槌",
+    "en": "wooden hammer",
+    "project": "潮州木雕",
+    "category": "工具",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_122",
+    "type": "word",
+    "zh": "弓把、夹子",
+    "en": "bow and clamp",
+    "project": "潮州木雕",
+    "category": "工具",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_123",
+    "type": "word",
+    "zh": "钢线锯",
+    "en": "steel wire saw",
+    "project": "潮州木雕",
+    "category": "工具",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_124",
+    "type": "word",
+    "zh": "方凿刀",
+    "en": "square chisel",
+    "project": "潮州木雕",
+    "category": "工具",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_125",
+    "type": "word",
+    "zh": "方湖刀",
+    "en": "arched square chisel",
+    "project": "潮州木雕",
+    "category": "工具",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_126",
+    "type": "word",
+    "zh": "圆凿刀",
+    "en": "round chisel",
+    "project": "潮州木雕",
+    "category": "工具",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_127",
+    "type": "word",
+    "zh": "挠凿刀（三角刀）",
+    "en": "triangle chisel",
+    "project": "潮州木雕",
+    "category": "工具",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_128",
+    "type": "word",
+    "zh": "雕刀",
+    "en": "carving knife",
+    "project": "潮州木雕",
+    "category": "工具",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_129",
+    "type": "word",
+    "zh": "毛尾刀",
+    "en": "hair-tail knife",
+    "project": "潮州木雕",
+    "category": "工具",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_130",
+    "type": "word",
+    "zh": "磨刀石（油石、粉石、乌石）",
+    "en": "whetstone （ coarse-honing whetstone, medium-honing whetstone and fine-honing whetstone）",
+    "project": "潮州木雕",
+    "category": "工具",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_131",
+    "type": "word",
+    "zh": "铁笔",
+    "en": "iron pen",
+    "project": "潮州木雕",
+    "category": "工具",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_132",
+    "type": "word",
+    "zh": "漆刷",
+    "en": "lacquer brush",
+    "project": "潮州木雕",
+    "category": "工具",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_133",
+    "type": "word",
+    "zh": "排笔",
+    "en": "broad brush",
+    "project": "潮州木雕",
+    "category": "工具",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_134",
+    "type": "word",
+    "zh": "漆绘笔",
+    "en": "painting brush",
+    "project": "潮州木雕",
+    "category": "工具",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_135",
+    "type": "word",
+    "zh": "描线笔",
+    "en": "line brush",
+    "project": "潮州木雕",
+    "category": "工具",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_136",
+    "type": "word",
+    "zh": "扫笔",
+    "en": "cleaning brush",
+    "project": "潮州木雕",
+    "category": "工具",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_137",
+    "type": "word",
+    "zh": "绘画笔",
+    "en": "drawing brush",
+    "project": "潮州木雕",
+    "category": "工具",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_138",
+    "type": "word",
+    "zh": "滤漆架",
+    "en": "filtering stand",
+    "project": "潮州木雕",
+    "category": "工具",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_139",
+    "type": "word",
+    "zh": "浮雕",
+    "en": "relief carving",
+    "project": "潮州木雕",
+    "category": "雕刻技法",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_140",
+    "type": "word",
+    "zh": "贴金",
+    "en": "gold lacquer",
+    "project": "潮州木雕",
+    "category": "雕刻技法",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_141",
+    "type": "word",
+    "zh": "沉雕",
+    "en": "intaglio carving",
+    "project": "潮州木雕",
+    "category": "雕刻技法",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_142",
+    "type": "word",
+    "zh": "圆雕",
+    "en": "altorelievo carving",
+    "project": "潮州木雕",
+    "category": "雕刻技法",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_143",
+    "type": "word",
+    "zh": "镂雕",
+    "en": "openwork carving",
+    "project": "潮州木雕",
+    "category": "雕刻技法",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_144",
+    "type": "word",
+    "zh": "通雕",
+    "en": "through-carving",
+    "project": "潮州木雕",
+    "category": "雕刻技法",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_145",
+    "type": "word",
+    "zh": "整料",
+    "en": "material preparation",
+    "project": "潮州木雕",
+    "category": "制作工序",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_146",
+    "type": "word",
+    "zh": "起草图",
+    "en": "drafting",
+    "project": "潮州木雕",
+    "category": "制作工序",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_147",
+    "type": "word",
+    "zh": "上草图",
+    "en": "printing",
+    "project": "潮州木雕",
+    "category": "制作工序",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_148",
+    "type": "word",
+    "zh": "凿粗坯",
+    "en": "rough shaping",
+    "project": "潮州木雕",
+    "category": "制作工序",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_149",
+    "type": "word",
+    "zh": "细雕刻",
+    "en": "fine carving",
+    "project": "潮州木雕",
+    "category": "制作工序",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_150",
+    "type": "word",
+    "zh": "髹漆贴金",
+    "en": "coating",
+    "project": "潮州木雕",
+    "category": "制作工序",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_151",
+    "type": "word",
+    "zh": "历史典故",
+    "en": "historical allusions",
+    "project": "潮州木雕",
+    "category": "题材内容",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_152",
+    "type": "word",
+    "zh": "戏剧曲艺",
+    "en": "plays and operas",
+    "project": "潮州木雕",
+    "category": "题材内容",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_153",
+    "type": "word",
+    "zh": "民间故事和神话传说",
+    "en": "legends and folklore, fairy tales and myths",
+    "project": "潮州木雕",
+    "category": "题材内容",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_154",
+    "type": "word",
+    "zh": "现实社会生活",
+    "en": "various aspects of real life",
+    "project": "潮州木雕",
+    "category": "题材内容",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_155",
+    "type": "word",
+    "zh": "自然景物",
+    "en": "natural images",
+    "project": "潮州木雕",
+    "category": "题材内容",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_156",
+    "type": "word",
+    "zh": "器具什物",
+    "en": "utensils",
+    "project": "潮州木雕",
+    "category": "题材内容",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_157",
+    "type": "word",
+    "zh": "步步紧",
+    "en": "overlapping squares",
+    "project": "潮州木雕",
+    "category": "题材内容",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_158",
+    "type": "word",
+    "zh": "拐子纹",
+    "en": "zigzagging lines",
+    "project": "潮州木雕",
+    "category": "题材内容",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_159",
+    "type": "word",
+    "zh": "回纹",
+    "en": "looping lines",
+    "project": "潮州木雕",
+    "category": "题材内容",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_160",
+    "type": "word",
+    "zh": "套环",
+    "en": "overlapping circles",
+    "project": "潮州木雕",
+    "category": "题材内容",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_161",
+    "type": "word",
+    "zh": "龟背纹",
+    "en": "linking hexagons",
+    "project": "潮州木雕",
+    "category": "题材内容",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_162",
+    "type": "word",
+    "zh": "格律体构图",
+    "en": "Metric Composition",
+    "project": "潮州木雕",
+    "category": "构图布局",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_163",
+    "type": "word",
+    "zh": "平视体构图",
+    "en": "isometric Composition",
+    "project": "潮州木雕",
+    "category": "构图布局",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_164",
+    "type": "word",
+    "zh": "立视体构图",
+    "en": "Perspective Composition",
+    "project": "潮州木雕",
+    "category": "构图布局",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_165",
+    "type": "word",
+    "zh": "周身布饰",
+    "en": "Spread Decoration",
+    "project": "潮州木雕",
+    "category": "处理手法",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_166",
+    "type": "word",
+    "zh": "巧设路径",
+    "en": "Artful Cohesion",
+    "project": "潮州木雕",
+    "category": "处理手法",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_167",
+    "type": "word",
+    "zh": "合理夸张",
+    "en": "Adequate Exaggeration",
+    "project": "潮州木雕",
+    "category": "处理手法",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_168",
+    "type": "word",
+    "zh": "数艺并施",
+    "en": "Combined Techniques",
+    "project": "潮州木雕",
+    "category": "处理手法",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_169",
+    "type": "word",
+    "zh": "黑漆装金",
+    "en": "Foil coating on black lacquer background",
+    "project": "潮州木雕",
+    "category": "总体装饰",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_170",
+    "type": "word",
+    "zh": "五彩装金",
+    "en": "Foil coating on colorful background",
+    "project": "潮州木雕",
+    "category": "总体装饰",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_171",
+    "type": "word",
+    "zh": "本色素雕",
+    "en": "Natural color woodcarving",
+    "project": "潮州木雕",
+    "category": "总体装饰",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_172",
+    "type": "word",
+    "zh": "漆画菁华",
+    "en": "Lacquer painting",
+    "project": "潮州木雕",
+    "category": "总体装饰",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_173",
+    "type": "word",
+    "zh": "描金漆画",
+    "en": "Gold-traced lacquer painting",
+    "project": "潮州木雕",
+    "category": "总体装饰",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_174",
+    "type": "word",
+    "zh": "磨金漆画",
+    "en": "Gold-shined lacquer painting",
+    "project": "潮州木雕",
+    "category": "总体装饰",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_175",
+    "type": "word",
+    "zh": "彩漆画",
+    "en": "Pigmented lacquer painting",
+    "project": "潮州木雕",
+    "category": "总体装饰",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_176",
+    "type": "word",
+    "zh": "铁线描漆画",
+    "en": "Iron-wire-traced lacquer painting",
+    "project": "潮州木雕",
+    "category": "总体装饰",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_177",
+    "type": "word",
+    "zh": "祠堂",
+    "en": "ancestral temples",
+    "project": "潮州木雕",
+    "category": "应用场景",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_178",
+    "type": "word",
+    "zh": "庙宇",
+    "en": "Buddhist temples",
+    "project": "潮州木雕",
+    "category": "应用场景",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_179",
+    "type": "word",
+    "zh": "民居",
+    "en": "folk houses",
+    "project": "潮州木雕",
+    "category": "应用场景",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_180",
+    "type": "word",
+    "zh": "门厅",
+    "en": "hallways",
+    "project": "潮州木雕",
+    "category": "应用场景",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_181",
+    "type": "word",
+    "zh": "庑廊",
+    "en": "corridors",
+    "project": "潮州木雕",
+    "category": "应用场景",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_182",
+    "type": "word",
+    "zh": "拜亭",
+    "en": "worship halls",
+    "project": "潮州木雕",
+    "category": "应用场景",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_183",
+    "type": "word",
+    "zh": "梁枋",
+    "en": "beams",
+    "project": "潮州木雕",
+    "category": "应用场景",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_184",
+    "type": "word",
+    "zh": "屐头",
+    "en": "shoe ends",
+    "project": "潮州木雕",
+    "category": "应用场景",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_185",
+    "type": "word",
+    "zh": "挑檐",
+    "en": "roof overhangs",
+    "project": "潮州木雕",
+    "category": "应用场景",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_186",
+    "type": "word",
+    "zh": "柱头",
+    "en": "column capitals",
+    "project": "潮州木雕",
+    "category": "应用场景",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_187",
+    "type": "word",
+    "zh": "门楣",
+    "en": "door heads",
+    "project": "潮州木雕",
+    "category": "应用场景",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_188",
+    "type": "word",
+    "zh": "屏风",
+    "en": "screens",
+    "project": "潮州木雕",
+    "category": "应用场景",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_189",
+    "type": "word",
+    "zh": "隔扇",
+    "en": "partition boards",
+    "project": "潮州木雕",
+    "category": "应用场景",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_190",
+    "type": "word",
+    "zh": "门窗",
+    "en": "doors",
+    "project": "潮州木雕",
+    "category": "应用场景",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_191",
+    "type": "word",
+    "zh": "栏杆",
+    "en": "windows",
+    "project": "潮州木雕",
+    "category": "应用场景",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_192",
+    "type": "word",
+    "zh": "缠罩",
+    "en": "balusters",
+    "project": "潮州木雕",
+    "category": "应用场景",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_193",
+    "type": "word",
+    "zh": "檐板",
+    "en": "clapboards",
+    "project": "潮州木雕",
+    "category": "应用场景",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_194",
+    "type": "word",
+    "zh": "神龛",
+    "en": "shrines",
+    "project": "潮州木雕",
+    "category": "应用场景",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_195",
+    "type": "word",
+    "zh": "神亭",
+    "en": "booths",
+    "project": "潮州木雕",
+    "category": "应用场景",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_196",
+    "type": "word",
+    "zh": "神轿",
+    "en": "sedan chairs",
+    "project": "潮州木雕",
+    "category": "应用场景",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_197",
+    "type": "word",
+    "zh": "神椅",
+    "en": "armchairs",
+    "project": "潮州木雕",
+    "category": "应用场景",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_198",
+    "type": "word",
+    "zh": "香几",
+    "en": "tables",
+    "project": "潮州木雕",
+    "category": "应用场景",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_199",
+    "type": "word",
+    "zh": "宣炉罩",
+    "en": "incense burner covers",
+    "project": "潮州木雕",
+    "category": "应用场景",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_200",
+    "type": "word",
+    "zh": "糖枋架",
+    "en": "candy shelves",
+    "project": "潮州木雕",
+    "category": "应用场景",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_201",
+    "type": "word",
+    "zh": "寿屏",
+    "en": "screens",
+    "project": "潮州木雕",
+    "category": "应用场景",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_202",
+    "type": "word",
+    "zh": "果碟",
+    "en": "fruits trays",
+    "project": "潮州木雕",
+    "category": "应用场景",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_203",
+    "type": "word",
+    "zh": "馔盒",
+    "en": "food containers",
+    "project": "潮州木雕",
+    "category": "应用场景",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_204",
+    "type": "word",
+    "zh": "眠床",
+    "en": "beds",
+    "project": "潮州木雕",
+    "category": "应用场景",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_205",
+    "type": "word",
+    "zh": "几案",
+    "en": "tables",
+    "project": "潮州木雕",
+    "category": "应用场景",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_206",
+    "type": "word",
+    "zh": "桌椅",
+    "en": "chairs",
+    "project": "潮州木雕",
+    "category": "应用场景",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_207",
+    "type": "word",
+    "zh": "橱柜",
+    "en": "cabinets",
+    "project": "潮州木雕",
+    "category": "应用场景",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_208",
+    "type": "word",
+    "zh": "梳妆台",
+    "en": "toilet tables",
+    "project": "潮州木雕",
+    "category": "应用场景",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_209",
+    "type": "word",
+    "zh": "纸煤筒",
+    "en": "cans of paper strings for starting fire",
+    "project": "潮州木雕",
+    "category": "应用场景",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_210",
+    "type": "word",
+    "zh": "灯芯筒",
+    "en": "lamp wick cans",
+    "project": "潮州木雕",
+    "category": "应用场景",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_211",
+    "type": "word",
+    "zh": "小屏风",
+    "en": "small screens",
+    "project": "潮州木雕",
+    "category": "应用场景",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_212",
+    "type": "word",
+    "zh": "镜屏",
+    "en": "mirror stands",
+    "project": "潮州木雕",
+    "category": "应用场景",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_213",
+    "type": "word",
+    "zh": "圆雕狮子",
+    "en": "carved lions in altorelievo",
+    "project": "潮州木雕",
+    "category": "应用场景",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_214",
+    "type": "word",
+    "zh": "茶担",
+    "en": "carrier",
+    "project": "潮州木雕",
+    "category": "应用场景",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_215",
+    "type": "word",
+    "zh": "磨金漆画西湖风景图大寿屏（道光三十年）",
+    "en": "Large birthday screens with gold-shined lacquer paintings of the west lake scenery (30th year of the Daoguang Period, QingDynasty)",
+    "project": "潮州木雕",
+    "category": "木雕精品",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_216",
+    "type": "word",
+    "zh": "磨金漆画豳风图大寿屏（同治七年）",
+    "en": "Large birthday screens with gold-shined lacquer paintings featuring the artistic conception of the Book of Songs (7th year of the Tongzhi Period, Qing Dynasty)",
+    "project": "潮州木雕",
+    "category": "木雕精品",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_217",
+    "type": "word",
+    "zh": "金漆木雕廿四孝图大寿屏（光绪十一年）",
+    "en": "Large gilt wood birthday screens featuring the stories of the twenty-four famous dutiful sons (11th year of the Guangxu Period, Qing Dynasty)",
+    "project": "潮州木雕",
+    "category": "木雕精品",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_218",
+    "type": "word",
+    "zh": "金漆木雕描金漆物博古花鸟纹大寿屏（光绪十三年）",
+    "en": "Large gilt wood birthday screens with design of figures, ancients patterns, birdsand flowers (13th year of the GuangxuPeriod, Qing Dynasty)",
+    "project": "潮州木雕",
+    "category": "木雕精品",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_219",
+    "type": "word",
+    "zh": "金漆木雕人物故事大寿屏（宣统三年）",
+    "en": "Large gilt wood birthday screens featuring figures and stories (3rd year of the Xuantong Period, Qing Dynasty)",
+    "project": "潮州木雕",
+    "category": "木雕精品",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_220",
+    "type": "word",
+    "zh": "金漆木雕大神龛门（清代）",
+    "en": "Large gilt wood shrine door （ Qing Dynasty）",
+    "project": "潮州木雕",
+    "category": "木雕精品",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_221",
+    "type": "word",
+    "zh": "金漆木雕长方形馔盒（清代）",
+    "en": "Gilt wood rectangular food container（Qing Dynasty）",
+    "project": "潮州木雕",
+    "category": "木雕精品",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_222",
+    "type": "word",
+    "zh": "金漆木雕神椟（清光绪）",
+    "en": "Gilt wood shrine （ Guanxu Period,Qing Dynasty）",
+    "project": "潮州木雕",
+    "category": "木雕精品",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_223",
+    "type": "word",
+    "zh": "金漆木雕神椟（清代）",
+    "en": "Gilt wood shrine （ Qing Dynasty ）",
+    "project": "潮州木雕",
+    "category": "木雕精品",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_224",
+    "type": "word",
+    "zh": "金漆木雕方形薰炉罩（清代）",
+    "en": "Gilt wood rectangular incense burner cover（Qing Dynasty）",
+    "project": "潮州木雕",
+    "category": "木雕精品",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_225",
+    "type": "word",
+    "zh": "金漆木雕六边形薰炉罩（清代）",
+    "en": "Gilt wood hexagonal incense burner cover（Qing Dynasty）",
+    "project": "潮州木雕",
+    "category": "木雕精品",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_226",
+    "type": "word",
+    "zh": "金漆木雕三牲贡盘（清代）",
+    "en": "Sacrificial tray（ Qing Dynasty ）",
+    "project": "潮州木雕",
+    "category": "木雕精品",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_227",
+    "type": "word",
+    "zh": "金漆木雕糖果架（清代）",
+    "en": "Gilt wood candy shelf（Qing Dynasty）",
+    "project": "潮州木雕",
+    "category": "木雕精品",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_228",
+    "type": "word",
+    "zh": "金漆木雕茶橱（清代）",
+    "en": "Gilt wood tea cabinet（Qing Dynasty）",
+    "project": "潮州木雕",
+    "category": "木雕精品",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_229",
+    "type": "word",
+    "zh": "木雕锣鼓架（清代）",
+    "en": "Carved wooden support for gongs and drums（Qing Dynasty）",
+    "project": "潮州木雕",
+    "category": "木雕精品",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_230",
+    "type": "word",
+    "zh": "喜鹊闹梅花板（民国）",
+    "en": "Gilt wood plank with the pattern of magpies and plum blossoms（ Republic of China）",
+    "project": "潮州木雕",
+    "category": "木雕精品",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_231",
+    "type": "word",
+    "zh": "通雕花鸟纹花板（清代）",
+    "en": "Plank in openwork with the patterns of flowers and birds （Qing Dynasty）",
+    "project": "潮州木雕",
+    "category": "木雕精品",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_232",
+    "type": "word",
+    "zh": "金木雕蟹篓（清代）",
+    "en": "Gilt wood Crab-cage（Qing Dynasty）",
+    "project": "潮州木雕",
+    "category": "木雕精品",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_233",
+    "type": "word",
+    "zh": "通雕五福临门花板（清代）",
+    "en": "Plank in openwork with the pattern of five blessings coming to the family （ Qing Dynasty）",
+    "project": "潮州木雕",
+    "category": "木雕精品",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_234",
+    "type": "word",
+    "zh": "通雕鲤鱼跳龙门花板（清代）",
+    "en": "Plank in openwork featuring the tale of Carp Leaping the Dragon’s Gate（Qing Dynasty）",
+    "project": "潮州木雕",
+    "category": "木雕精品",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_235",
+    "type": "word",
+    "zh": "金漆木雕人物故事轿围屏（清代）",
+    "en": "Gilt wood enclosing planks of a sedan chair featuring figures and stories（Qing Dynasty）",
+    "project": "潮州木雕",
+    "category": "木雕精品",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_236",
+    "type": "word",
+    "zh": "金漆木雕纸煤筒（清代）",
+    "en": "Gilt wood can of paper strings for starting fire（Qing Dynasty）",
+    "project": "潮州木雕",
+    "category": "木雕精品",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_237",
+    "type": "word",
+    "zh": "金漆木雕神椟门（清代）",
+    "en": "Small gilt wood shrine door （ Qing Dynasty）",
+    "project": "潮州木雕",
+    "category": "木雕精品",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_238",
+    "type": "word",
+    "zh": "金漆木雕对联花板（清代）",
+    "en": "Gilt wood plank with antithetical couplet (Qing Dynasty)",
+    "project": "潮州木雕",
+    "category": "木雕精品",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_239",
+    "type": "word",
+    "zh": "通雕人物门肚（清乾隆）",
+    "en": "Door panel in openworkfeaturing the pattern of figures (Qianlong Period, Qing Dynasty)",
+    "project": "潮州木雕",
+    "category": "木雕精品",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_240",
+    "type": "word",
+    "zh": "通雕“百忍堂”窗花（清代）",
+    "en": "Window grille in openwork featuring the story of the Hundred “Ren”(Restraint) Hall(Qing Dynasty)",
+    "project": "潮州木雕",
+    "category": "木雕精品",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_241",
+    "type": "word",
+    "zh": "通雕郭子仪庆寿神龛门窗肚（清代）",
+    "en": "Shrine door panel in openwork featuring the story of Guo Ziyi Celebrating His Birthday (Qing Dynasty)",
+    "project": "潮州木雕",
+    "category": "木雕精品",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_242",
+    "type": "word",
+    "zh": "通雕人物故事花板（清代）",
+    "en": "Plank in openwork featuring the pattern of figures and stories (Qing Dynasty)",
+    "project": "潮州木雕",
+    "category": "木雕精品",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_243",
+    "type": "word",
+    "zh": "金漆木雕“喜鹊闹梅”神龛楣 （清代）",
+    "en": "Gilt wood shrine head with the patterns of magpies and plum blossoms (Qing Dynasty)",
+    "project": "潮州木雕",
+    "category": "木雕精品",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_244",
+    "type": "word",
+    "zh": "通雕洋人建筑构件（清末）",
+    "en": "Building component featuring the image of westerners (Late Qing Dynasty)",
+    "project": "潮州木雕",
+    "category": "木雕精品",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_245",
+    "type": "word",
+    "zh": "圆雕洋人贡碟（清末）",
+    "en": "Tray rest in altorelievo with the images of westerners(Late Qing Dynasty)",
+    "project": "潮州木雕",
+    "category": "木雕精品",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_246",
+    "type": "word",
+    "zh": "鎏金木",
+    "en": "gilt wood",
+    "project": "潮州木雕",
+    "category": "",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "w_247",
+    "type": "word",
+    "zh": "漆",
+    "en": "lacquer",
+    "project": "潮州木雕",
+    "category": "",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "w_248",
+    "type": "word",
+    "zh": "镂空",
+    "en": "镂空",
+    "project": "潮州木雕",
+    "category": "",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "w_249",
+    "type": "word",
+    "zh": "金箔",
+    "en": "gold foil",
+    "project": "潮州木雕",
+    "category": "",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "w_250",
+    "type": "word",
+    "zh": "圆雕羊形贡碟（清末）",
+    "en": "Sheep-shaped sacrifice tray in altorelievo (Late Qing Dynasty)",
+    "project": "潮州木雕",
+    "category": "木雕精品",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_251",
+    "type": "word",
+    "zh": "樟木",
+    "en": "Camphor",
+    "project": "潮州木雕",
+    "category": "",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "w_252",
+    "type": "word",
+    "zh": "生漆",
+    "en": "raw lacquer",
+    "project": "潮州木雕",
+    "category": "",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "w_253",
+    "type": "word",
+    "zh": "熟漆",
+    "en": "refined lacquer",
+    "project": "潮州木雕",
+    "category": "",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "w_254",
+    "type": "word",
+    "zh": "圆雕子母麒麟贡碟（清代）",
+    "en": "Plank featuring filial obedience (Qing Dynasty)",
+    "project": "潮州木雕",
+    "category": "木雕精品",
+    "strategy": "",
+    "source": "广东省博物馆讲解词"
+  },
+  {
+    "id": "w_255",
+    "type": "word",
+    "zh": "粤绣（潮绣）",
+    "en": "Chaozhou Embroidery",
+    "project": "潮绣",
+    "category": "传统美术",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "w_256",
+    "type": "word",
+    "zh": "形针",
+    "en": "Contour Stitch",
+    "project": "潮绣",
+    "category": "工艺针法",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "w_257",
+    "type": "word",
+    "zh": "锦纹针",
+    "en": "Brocade Ground Stitch",
+    "project": "潮绣",
+    "category": "工艺针法",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "w_258",
+    "type": "word",
+    "zh": "花型针",
+    "en": "Motif Sculpting Stitch",
+    "project": "潮绣",
+    "category": "工艺针法",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "w_259",
+    "type": "word",
+    "zh": "竹编针",
+    "en": "Basket Weave Stitch",
+    "project": "潮绣",
+    "category": "工艺针法",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "w_260",
+    "type": "word",
+    "zh": "松子针",
+    "en": "Pine Nut Knot Stitch",
+    "project": "潮绣",
+    "category": "工艺针法",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "w_261",
+    "type": "word",
+    "zh": "绒绣",
+    "en": "velvet",
+    "project": "潮绣",
+    "category": "分类",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "w_262",
+    "type": "word",
+    "zh": "线绣",
+    "en": "thread embroidery",
+    "project": "潮绣",
+    "category": "分类",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "w_263",
+    "type": "word",
+    "zh": "钉金绣",
+    "en": "gold thread couching",
+    "project": "潮绣",
+    "category": "分类",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "w_264",
+    "type": "word",
+    "zh": "金绒融合绣",
+    "en": "gold velvet mixed embroidery",
+    "project": "潮绣",
+    "category": "分类",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "w_265",
+    "type": "word",
+    "zh": "铺",
+    "en": "underlaying",
+    "project": "潮绣",
+    "category": "基础绣艺",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "w_266",
+    "type": "word",
+    "zh": "垫",
+    "en": "wadding",
+    "project": "潮绣",
+    "category": "基础绣艺",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "w_267",
+    "type": "word",
+    "zh": "钉",
+    "en": "couching",
+    "project": "潮绣",
+    "category": "基础绣艺",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "w_268",
+    "type": "word",
+    "zh": "贴",
+    "en": "appliqué",
+    "project": "潮绣",
+    "category": "基础绣艺",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "w_269",
+    "type": "word",
+    "zh": "缀",
+    "en": "beading/sequinning",
+    "project": "潮绣",
+    "category": "基础绣艺",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "w_270",
+    "type": "word",
+    "zh": "刺绣",
+    "en": "embroidery",
+    "project": "潮绣",
+    "category": "分类",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "w_271",
+    "type": "word",
+    "zh": "珠缀绣",
+    "en": "pearl beading",
+    "project": "潮绣",
+    "category": "分类",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "w_272",
+    "type": "word",
+    "zh": "绒线绣",
+    "en": "crewelsilk embroidery",
+    "project": "潮绣",
+    "category": "分类",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "w_273",
+    "type": "word",
+    "zh": "天鹅绒刺绣",
+    "en": "Velvet embroidery",
+    "project": "潮绣",
+    "category": "分类",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "w_274",
+    "type": "word",
+    "zh": "垫棉绣",
+    "en": "wadded embroidery",
+    "project": "潮绣",
+    "category": "分类",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "w_275",
+    "type": "word",
+    "zh": "潮州大锣鼓",
+    "en": "Chaozhou gongs and drums",
+    "project": "潮州音乐",
+    "category": "传统音乐",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "w_276",
+    "type": "word",
+    "zh": "打击乐器",
+    "en": "percussion instrument",
+    "project": "潮州音乐",
+    "category": "打击乐器",
+    "strategy": "",
+    "source": "普鲁文"
+  },
+  {
+    "id": "w_277",
+    "type": "word",
+    "zh": "板鼓",
+    "en": "bangu",
+    "project": "潮州音乐",
+    "category": "打击乐器",
+    "strategy": "",
+    "source": "普鲁文"
+  },
+  {
+    "id": "w_278",
+    "type": "word",
+    "zh": "梆子",
+    "en": "bangzi, chinese wooden clappers",
+    "project": "潮州音乐",
+    "category": "打击乐器",
+    "strategy": "",
+    "source": "普鲁文"
+  },
+  {
+    "id": "w_279",
+    "type": "word",
+    "zh": "大鼓",
+    "en": "chinese bass drum",
+    "project": "潮州音乐",
+    "category": "打击乐器",
+    "strategy": "",
+    "source": "普鲁文"
+  },
+  {
+    "id": "w_280",
+    "type": "word",
+    "zh": "低音大锣",
+    "en": "chinese bass gong",
+    "project": "潮州音乐",
+    "category": "打击乐器",
+    "strategy": "",
+    "source": "普鲁文"
+  },
+  {
+    "id": "w_281",
+    "type": "word",
+    "zh": "钹",
+    "en": "chinese cymbal",
+    "project": "潮州音乐",
+    "category": "打击乐器",
+    "strategy": "",
+    "source": "普鲁文"
+  },
+  {
+    "id": "w_282",
+    "type": "word",
+    "zh": "小鼓",
+    "en": "chinese snare drum",
+    "project": "潮州音乐",
+    "category": "打击乐器",
+    "strategy": "",
+    "source": "普鲁文"
+  },
+  {
+    "id": "w_283",
+    "type": "word",
+    "zh": "木鱼",
+    "en": "chinese wood block",
+    "project": "潮州音乐",
+    "category": "打击乐器",
+    "strategy": "",
+    "source": "普鲁文"
+  },
+  {
+    "id": "w_284",
+    "type": "word",
+    "zh": "锣",
+    "en": "luo, chinese gong",
+    "project": "潮州音乐",
+    "category": "打击乐器",
+    "strategy": "",
+    "source": "普鲁文"
+  },
+  {
+    "id": "w_285",
+    "type": "word",
+    "zh": "排鼓",
+    "en": "paigu",
+    "project": "潮州音乐",
+    "category": "打击乐器",
+    "strategy": "",
+    "source": "普鲁文"
+  },
+  {
+    "id": "w_286",
+    "type": "word",
+    "zh": "拍板",
+    "en": "slapstick",
+    "project": "潮州音乐",
+    "category": "打击乐器",
+    "strategy": "",
+    "source": "普鲁文"
+  },
+  {
+    "id": "w_287",
+    "type": "word",
+    "zh": "云锣",
+    "en": "yunluo",
+    "project": "潮州音乐",
+    "category": "打击乐器",
+    "strategy": "",
+    "source": "普鲁文"
+  },
+  {
+    "id": "w_288",
+    "type": "word",
+    "zh": "弹拨乐器",
+    "en": "plucked string instrument",
+    "project": "潮州音乐",
+    "category": "拨弹乐器",
+    "strategy": "",
+    "source": "普鲁文"
+  },
+  {
+    "id": "w_289",
+    "type": "word",
+    "zh": "古筝",
+    "en": "guzheng, chinese zither",
+    "project": "潮州音乐",
+    "category": "拨弹乐器",
+    "strategy": "",
+    "source": "普鲁文"
+  },
+  {
+    "id": "w_290",
+    "type": "word",
+    "zh": "柳叶琴",
+    "en": "liuqin",
+    "project": "潮州音乐",
+    "category": "拨弹乐器",
+    "strategy": "",
+    "source": "普鲁文"
+  },
+  {
+    "id": "w_291",
+    "type": "word",
+    "zh": "琵琶",
+    "en": "pipa, chinese lute",
+    "project": "潮州音乐",
+    "category": "拨弹乐器",
+    "strategy": "",
+    "source": "普鲁文"
+  },
+  {
+    "id": "w_292",
+    "type": "word",
+    "zh": "阮咸",
+    "en": "ruan, moon guitar",
+    "project": "潮州音乐",
+    "category": "拨弹乐器",
+    "strategy": "",
+    "source": "普鲁文"
+  },
+  {
+    "id": "w_293",
+    "type": "word",
+    "zh": "三弦",
+    "en": "sanxian",
+    "project": "潮州音乐",
+    "category": "拨弹乐器",
+    "strategy": "",
+    "source": "普鲁文"
+  },
+  {
+    "id": "w_294",
+    "type": "word",
+    "zh": "扬琴",
+    "en": "yangqin",
+    "project": "潮州音乐",
+    "category": "拨弹乐器",
+    "strategy": "",
+    "source": "普鲁文"
+  },
+  {
+    "id": "w_295",
+    "type": "word",
+    "zh": "拉弦乐器",
+    "en": "string instrument",
+    "project": "潮州音乐",
+    "category": "拉弦乐器",
+    "strategy": "",
+    "source": "普鲁文"
+  },
+  {
+    "id": "w_296",
+    "type": "word",
+    "zh": "板胡",
+    "en": "banhu",
+    "project": "潮州音乐",
+    "category": "拉弦乐器",
+    "strategy": "",
+    "source": "普鲁文"
+  },
+  {
+    "id": "w_297",
+    "type": "word",
+    "zh": "倍革胡",
+    "en": "bass gehu",
+    "project": "潮州音乐",
+    "category": "拉弦乐器",
+    "strategy": "",
+    "source": "普鲁文"
+  },
+  {
+    "id": "w_298",
+    "type": "word",
+    "zh": "京胡",
+    "en": "jinghu",
+    "project": "潮州音乐",
+    "category": "拉弦乐器",
+    "strategy": "",
+    "source": "普鲁文"
+  },
+  {
+    "id": "w_299",
+    "type": "word",
+    "zh": "革胡",
+    "en": "gehu",
+    "project": "潮州音乐",
+    "category": "拉弦乐器",
+    "strategy": "",
+    "source": "普鲁文"
+  },
+  {
+    "id": "w_300",
+    "type": "word",
+    "zh": "南胡/二胡",
+    "en": "nanhu, erhu, chinese fiddle",
+    "project": "潮州音乐",
+    "category": "拉弦乐器",
+    "strategy": "",
+    "source": "普鲁文"
+  },
+  {
+    "id": "w_301",
+    "type": "word",
+    "zh": "中胡",
+    "en": "zhonghu",
+    "project": "潮州音乐",
+    "category": "拉弦乐器",
+    "strategy": "",
+    "source": "普鲁文"
+  },
+  {
+    "id": "w_302",
+    "type": "word",
+    "zh": "吹管乐器",
+    "en": "wind instrument",
+    "project": "潮州音乐",
+    "category": "吹管乐器",
+    "strategy": "",
+    "source": "普鲁文"
+  },
+  {
+    "id": "w_303",
+    "type": "word",
+    "zh": "曲笛",
+    "en": "di, chinese bamboo flute",
+    "project": "潮州音乐",
+    "category": "吹管乐器",
+    "strategy": "",
+    "source": "普鲁文"
+  },
+  {
+    "id": "w_304",
+    "type": "word",
+    "zh": "笙",
+    "en": "sheng",
+    "project": "潮州音乐",
+    "category": "吹管乐器",
+    "strategy": "",
+    "source": "普鲁文"
+  },
+  {
+    "id": "w_305",
+    "type": "word",
+    "zh": "唢呐",
+    "en": "suona, shanai",
+    "project": "潮州音乐",
+    "category": "吹管乐器",
+    "strategy": "",
+    "source": "普鲁文"
+  },
+  {
+    "id": "w_306",
+    "type": "word",
+    "zh": "萧",
+    "en": "xiao, chinese vertical bamboo flute",
+    "project": "潮州音乐",
+    "category": "吹管乐器",
+    "strategy": "",
+    "source": "普鲁文"
+  },
+  {
+    "id": "w_307",
+    "type": "word",
+    "zh": "陶器烧制技艺（枫溪手拉朱泥壶制作技艺）",
+    "en": "",
+    "project": "手拉朱泥壶制作技艺",
+    "category": "传统技艺",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "w_308",
+    "type": "word",
+    "zh": "水平壶",
+    "en": "",
+    "project": "手拉朱泥壶制作技艺",
+    "category": "分类",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "w_309",
+    "type": "word",
+    "zh": "梨形壶",
+    "en": "",
+    "project": "手拉朱泥壶制作技艺",
+    "category": "分类",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "w_310",
+    "type": "word",
+    "zh": "扁灯壶",
+    "en": "",
+    "project": "手拉朱泥壶制作技艺",
+    "category": "分类",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "w_311",
+    "type": "word",
+    "zh": "扁鼓壶",
+    "en": "",
+    "project": "手拉朱泥壶制作技艺",
+    "category": "分类",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "w_312",
+    "type": "word",
+    "zh": "选料",
+    "en": "",
+    "project": "手拉朱泥壶制作技艺",
+    "category": "工序",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "w_313",
+    "type": "word",
+    "zh": "制泥",
+    "en": "",
+    "project": "手拉朱泥壶制作技艺",
+    "category": "工序",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "w_314",
+    "type": "word",
+    "zh": "拉坯",
+    "en": "",
+    "project": "手拉朱泥壶制作技艺",
+    "category": "工序",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "w_315",
+    "type": "word",
+    "zh": "修坯",
+    "en": "",
+    "project": "手拉朱泥壶制作技艺",
+    "category": "工序",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "w_316",
+    "type": "word",
+    "zh": "安流加柄",
+    "en": "",
+    "project": "手拉朱泥壶制作技艺",
+    "category": "工序",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "w_317",
+    "type": "word",
+    "zh": "晾干",
+    "en": "",
+    "project": "手拉朱泥壶制作技艺",
+    "category": "工序",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "w_318",
+    "type": "word",
+    "zh": "上釉",
+    "en": "",
+    "project": "手拉朱泥壶制作技艺",
+    "category": "工序",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "w_319",
+    "type": "word",
+    "zh": "装窑",
+    "en": "",
+    "project": "手拉朱泥壶制作技艺",
+    "category": "工序",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "w_320",
+    "type": "word",
+    "zh": "烧窑",
+    "en": "",
+    "project": "手拉朱泥壶制作技艺",
+    "category": "工序",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "w_321",
+    "type": "word",
+    "zh": "手拉技术",
+    "en": "Hand-Pulled Technique",
+    "project": "手拉朱泥壶制作技艺",
+    "category": "工序",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "w_322",
+    "type": "word",
+    "zh": "三山对齐",
+    "en": "Three Mountains Alignment​",
+    "project": "手拉朱泥壶制作技艺",
+    "category": "工序",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "w_323",
+    "type": "word",
+    "zh": "梨皮皱纹",
+    "en": "pear-skin wrinkles",
+    "project": "手拉朱泥壶制作技艺",
+    "category": "特征",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "w_324",
+    "type": "word",
+    "zh": "蚯蚓痕迹",
+    "en": "earthworm trails",
+    "project": "手拉朱泥壶制作技艺",
+    "category": "特征",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "s_1",
+    "type": "sentence",
+    "zh": "镶嵌（潮州嵌瓷）",
+    "en": "inlaid porcelain/porcelain inlay",
+    "project": "潮州工夫茶艺",
+    "category": "民俗",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "p_1",
+    "type": "paragraph",
+    "zh": "镶嵌（潮州嵌瓷）",
+    "en": "inlaid porcelain/porcelain inlay",
+    "project": "潮州工夫茶艺",
+    "category": "民俗",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "p_2",
+    "type": "paragraph",
+    "zh": "潮州嵌瓷传统上用于装饰寺庙、祠堂和住宅建筑，以其耐候性和持久的活力而闻名。",
+    "en": "Traditionally used to adorn temples, ancestral halls, and residential buildings, Chaozhou porcelain inlay is celebrated for its weather resistance and enduring vibrancy.",
+    "project": "潮州嵌瓷",
+    "category": "传统美术",
+    "strategy": "",
+    "source": "CCTN报道"
+  },
+  {
+    "id": "p_3",
+    "type": "paragraph",
+    "zh": "这种独特的工艺起源于明代（1368-1644），涉及切割和嵌入五颜六色的瓷器碎片，以创造出复杂而生动的设计。",
+    "en": "Originating in the Ming Dynasty (1368-1644), this unique craft involves cutting and embedding colorful porcelain fragments to create intricate and vivid designs.",
+    "project": "潮州嵌瓷",
+    "category": "传统美术",
+    "strategy": "",
+    "source": "CCTN报道"
+  },
+  {
+    "id": "p_4",
+    "type": "paragraph",
+    "zh": "嵌瓷，产自广东省潮州市的瓷器镶嵌物，是一种具有数百年历史的艺术形式，也是中国国家认可的非物质文化遗产。",
+    "en": "Qianci, or porcelain inlay from Chaozhou in Guangdong Province, is a centuries-old art form and a nationally recognized intangible cultural heritage item in China.",
+    "project": "潮州嵌瓷",
+    "category": "传统美术",
+    "strategy": "",
+    "source": "CCTN报道"
+  },
+  {
+    "id": "p_5",
+    "type": "paragraph",
+    "zh": "嵌瓷是一种民间工艺品，其特点是使用釉面陶瓷件，切割并嵌入各种装饰图案。",
+    "en": "Inlaid porcelain is a type of folk craft characterized by the use of glazed ceramic pieces, which are cut and embedded with various decorative patterns.",
+    "project": "潮州嵌瓷",
+    "category": "传统美术",
+    "strategy": "",
+    "source": "CCTN报道"
+  },
+  {
+    "id": "p_6",
+    "type": "paragraph",
+    "zh": "嵌瓷广泛应用于山墙屋顶，最明显的是沿着主脊（正记）、次生脊（翠记）、山墙（山墙）和屏风墙（赵壁）。",
+    "en": "Inlaid Porcelain is widely applied to gable roofs, most notably along the main ridge (Zheng ji), secondary ridges (Chui ji), gable walls (Shan qiang), and screen walls (Zhao bi)",
+    "project": "潮州嵌瓷",
+    "category": "传统美术",
+    "strategy": "",
+    "source": "MDPI"
+  },
+  {
+    "id": "p_7",
+    "type": "paragraph",
+    "zh": "工匠通常在次级脊的末端使用凸起或完全三维的镶嵌物，偏爱人物或花篮等主题。山墙主要以连续的图案和单独的平面镶嵌为特色，主题通常取材于自然元素和吉祥符号。",
+    "en": "Artisans commonly use raised or fully three-dimensional inlay at the ends of the secondary ridges, favoring themes like human figures or flower baskets. The gable walls primarily feature continuous patterns and individual Flat Inlay, with themes often drawn from natural elements and auspicious symbols.",
+    "project": "潮州嵌瓷",
+    "category": "传统美术",
+    "strategy": "",
+    "source": "MDPI"
+  },
+  {
+    "id": "p_8",
+    "type": "paragraph",
+    "zh": "潮州嵌瓷是一种不可多得的传统艺术。这种艺术使用破碎的瓷器来创造生动的图像。被认定为国家级非物质文化遗产。与木雕、石雕并称为潮汕三大建筑装饰艺术之一。",
+    "en": "Teochew embedded porcelain is a rare traditional art. This art uses broken porcelain pieces to create vivid images. It is recognized as a national intangible cultural heritage. It is known as one of the three major architectural decorative arts in Chaozhou and Shantou, along with wood carving and stone carving.",
+    "project": "潮州嵌瓷",
+    "category": "传统美术",
+    "strategy": "",
+    "source": "Chaozhou (Teochew) Cultural Websites"
+  },
+  {
+    "id": "p_9",
+    "type": "paragraph",
+    "zh": "该技术基于切割和粘贴瓷片。艺术家以受控的方式打破瓷器来使用其作品。然后他们将这些作品镶嵌到砖或木质表面上。",
+    "en": "The technique is based on cutting and pasting porcelain fragments. Artists break porcelain in a controlled way to use its pieces. They then inlay these pieces onto brick or wooden surfaces.",
+    "project": "潮州嵌瓷",
+    "category": "传统美术",
+    "strategy": "",
+    "source": "Chaozhou (Teochew) Cultural Websites"
+  },
+  {
+    "id": "p_10",
+    "type": "paragraph",
+    "zh": "嵌瓷有许多吸引人的主题。艺术家从神话和日常生活中选择主题。常见的主题包括双龙玩珍珠。双凤带牡丹也经常出现。这些符号承载着丰富的含义和好运的祝愿。",
+    "en": "Porcelain inlay has many attractive themes. Artists choose subjects from myths and daily life. Common themes include double dragons playing with pearls. Double phoenixes with peonies also appear often. These symbols carry rich meanings and good luck wishes.",
+    "project": "潮州嵌瓷",
+    "category": "传统美术",
+    "strategy": "",
+    "source": "Chaozhou (Teochew) Cultural Websites"
+  },
+  {
+    "id": "p_11",
+    "type": "paragraph",
+    "zh": "这种艺术品经常装饰屋脊和寺庙外墙。在祠堂里，戴着王冠的人物表现出荣誉和力量。风格写实，充满生机。色彩鲜艳，图像细致。这种艺术被称为“永远明亮”，因为它永远不会褪色。",
+    "en": "The art often decorates roof ridges and temple facades. In ancestral halls, figures with crowns show honor and strength. The style is realistic and full of life. Colors are vibrant and images are detailed. The art is known as \"forever bright\" because it never fades.",
+    "project": "潮州嵌瓷",
+    "category": "传统美术",
+    "strategy": "",
+    "source": "Chaozhou (Teochew) Cultural Websites"
+  },
+  {
+    "id": "p_12",
+    "type": "paragraph",
+    "zh": "第一步是建立一个基础结构。工匠们用砖块和瓷砖制作一个框架。对于三维工作，他们使用铁丝和砂浆。该框架支撑镶嵌的瓷器。",
+    "en": "The first step is to build a base structure. Artisans create a framework with bricks and tiles. For three-dimensional work, they use iron wires and mortar. This frame supports the inlaid porcelain pieces.",
+    "project": "潮州嵌瓷",
+    "category": "传统美术",
+    "strategy": "",
+    "source": "Chaozhou (Teochew) Cultural Websites"
+  },
+  {
+    "id": "p_13",
+    "type": "paragraph",
+    "zh": "接下来，艺术家创作瓷器碎片。他们通过投掷或敲击来打破整块瓷器。然后按形状和大小选择这些作品。这一步被称为“切瓷”。它既需要精确性，又需要创造力。",
+    "en": "Next, artists create porcelain fragments. They break whole porcelain by throwing or tapping it. The pieces are then selected by shape and size. This step is known as \"cutting porcelain\". It requires both precision and creativity.",
+    "project": "潮州嵌瓷",
+    "category": "传统美术",
+    "strategy": "",
+    "source": "Chaozhou (Teochew) Cultural Websites"
+  },
+  {
+    "id": "p_14",
+    "type": "paragraph",
+    "zh": "第三步，镶嵌瓷片。这个过程称为“粘连”。工匠们小心地将每件作品放在框架上。它们必须很好地平衡颜色和成分。镶嵌步骤定义了工作的质量。",
+    "en": "The third step is to inlay the porcelain pieces. This process is called \"sticking\". Artisans carefully place each piece on the frame. They must balance color and composition well. The inlay step defines the quality of the work.",
+    "project": "潮州嵌瓷",
+    "category": "传统美术",
+    "strategy": "",
+    "source": "Chaozhou (Teochew) Cultural Websites"
+  },
+  {
+    "id": "p_15",
+    "type": "paragraph",
+    "zh": "最后，进行全面调整。艺术家审查整体设计和分层。他们在需要时添加金色和银色线条的细节。有时，会使用玻璃珠或薄膜装饰。每一步都展现了艺术家的用心和技巧。",
+    "en": "Finally, comprehensive adjustments follow. Artists review the overall design and layering. They add details with gold and silver lines when needed. Sometimes, glass beads or film embellishments are used. Each step shows the artist's dedication and skill.",
+    "project": "潮州嵌瓷",
+    "category": "传统美术",
+    "strategy": "",
+    "source": "Chaozhou (Teochew) Cultural Websites"
+  },
+  {
+    "id": "p_16",
+    "type": "paragraph",
+    "zh": "它艺术造型生动，釉料丰富。它具有坚固的质地和耐风化。在热带地区，它能忍受雨水和高温。它的耐用性使其在装饰艺术中独树一帜。",
+    "en": "The art has vivid shapes and rich glazes. It has a strong texture and resists weathering. In tropical regions, it endures rain and high heat. Its durability makes it unique among decorative arts.",
+    "project": "潮州嵌瓷",
+    "category": "传统美术",
+    "strategy": "",
+    "source": "Chaozhou (Teochew) Cultural Websites"
+  },
+  {
+    "id": "p_17",
+    "type": "paragraph",
+    "zh": "潮州嵌瓷讲述着一个活生生的故事。它将现代社会与古老的传统联系起来。每件作品都是奉献和美丽的象征。艺术将工艺与文化遗产融为一体。它提供了一个了解丰富历史的窗口。",
+    "en": "Teochew embedded porcelain tells a living story. It connects modern society with ancient traditions. Each piece is a symbol of dedication and beauty. The art blends craftsmanship with cultural heritage. It offers a window into a rich history.",
+    "project": "潮州嵌瓷",
+    "category": "传统美术",
+    "strategy": "",
+    "source": "Chaozhou (Teochew) Cultural Websites"
+  },
+  {
+    "id": "p_18",
+    "type": "paragraph",
+    "zh": "嵌瓷作为潮汕地区特有的一种传统民间工艺，被誉为“绽放在屋脊上的艺术”。",
+    "en": "Chaoshan Inlaid Porcelain, as a unique traditional folk craft in the Chaoshan area, is known as the “beautiful roof molding art”.",
+    "project": "潮州嵌瓷",
+    "category": "传统美术",
+    "strategy": "",
+    "source": "羊城晚报·羊城派"
+  },
+  {
+    "id": "p_20",
+    "type": "paragraph",
+    "zh": "潮州木雕",
+    "en": "wood carving",
+    "project": "潮州木雕",
+    "category": "",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "p_21",
+    "type": "paragraph",
+    "zh": "潮州木雕于2006年被列入国家级非物质文化遗产名录。",
+    "en": "Chaozhou wood carving was added to the national intangible cultural heritage list in 2006.",
+    "project": "潮州木雕",
+    "category": "传统美术",
+    "strategy": "",
+    "source": "CCTN报道"
+  },
+  {
+    "id": "p_22",
+    "type": "paragraph",
+    "zh": "潮州木雕，又称潮州木雕，是华南地区独特的艺术形式。这种艺术起源于广东省潮汕地区。享誉中国，享誉全球。是中国四大木雕传统之一。",
+    "en": "Teochew wood carving, also known as Chaozhou wood carving, is a unique art form from South China. This art originated in the Chaoshan region of Guangdong Province. It is famous in China and known worldwide. It is one of China’s four major wood carving traditions. This article tells the story of Teochew wood carving.",
+    "project": "",
+    "category": "",
+    "strategy": "",
+    "source": "Chaozhou (Teochew) Cultural Websites"
+  },
+  {
+    "id": "p_23",
+    "type": "paragraph",
+    "zh": "潮州木雕在明代达到成熟。镇海楼塔始建于明初。它的走廊有 108 只木雕猴子。每只猴子都表现出不同的表情和风格。这件杰作标志着潮州木雕的成熟。",
+    "en": "Teochew wood carving reached maturity during the Ming dynasty. The Zhenhai Lou Tower was built in early Ming. Its corridor features 108 carved wooden monkeys. Each monkey shows a different expression and style. This masterpiece marked the maturity of Teochew wood carving.",
+    "project": "",
+    "category": "",
+    "strategy": "",
+    "source": "Chaozhou (Teochew) Cultural Websites"
+  },
+  {
+    "id": "p_24",
+    "type": "paragraph",
+    "zh": "明晚期，木雕出现了新的风格。一座六面七层的千佛塔被创建。它完美地结合了浮雕和圆形雕刻技术。这座宝塔至今仍保存在开元寺。它标志着复杂的多层木雕的开始。",
+    "en": "The late Ming era saw new styles in wood carving. A six-sided, seven-story Thousand Buddha Pagoda was created. It combined relief and round carving techniques beautifully. This pagoda is still preserved at Kaiyuan Temple. It marked the start of intricate multi-level wood carving.",
+    "project": "",
+    "category": "",
+    "strategy": "",
+    "source": "Chaozhou (Teochew) Cultural Websites"
+  },
+  {
+    "id": "p_25",
+    "type": "paragraph",
+    "zh": "海外贸易促进了潮州木雕艺术的发展。许多华侨回国，建造了金碧辉煌的祠堂。富裕家庭在建筑项目上花费了大量资金。他们希望为他们的宏伟房屋制作精美的木雕。该工艺在此期间达到顶峰。",
+    "en": "Overseas trade boosted the art of Teochew wood carving. Many overseas Chinese returned to build splendid ancestral halls. Wealthy families spent great sums on building projects. They desired elaborate wood carvings for their grand houses. The craft reached its peak during this period.",
+    "project": "",
+    "category": "",
+    "strategy": "",
+    "source": "Chaozhou (Teochew) Cultural Websites"
+  },
+  {
+    "id": "p_26",
+    "type": "paragraph",
+    "zh": "潮州木雕使用了许多创新技术。雕刻师同时使用浮雕和圆形雕刻。它们创建深层和复杂的图案。简单的工具有助于获得详细的结果。每一次雕刻都是艺术与技艺的融合。这门手艺随着每一代人的进步而发展。许多技术都是秘密传承的。",
+    "en": "Teochew wood carving uses many innovative techniques. Carvers work with both relief and round carving. They create deep layers and intricate patterns. Simple tools help achieve detailed results. Every carving is a blend of art and skill. The craft evolves with each new generation. Many techniques are passed down secretly.",
+    "project": "",
+    "category": "",
+    "strategy": "",
+    "source": "Chaozhou (Teochew) Cultural Websites"
+  },
+  {
+    "id": "p_27",
+    "type": "paragraph",
+    "zh": "潮剧是潮州建筑和家具雕塑元素中无处不在的题材。它不仅为装饰图案提供了美学主题，而且反映了潮州文化的核心价值观。",
+    "en": "Chaozhou Opera is an ubiquitous subject among sculptural elements of Chaozhou architecture and furniture. Not only does it provide an aesthetic subject for decorative motif, but it reflects the core values of Chaozhou culture.",
+    "project": "",
+    "category": "",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "p_28",
+    "type": "paragraph",
+    "zh": "潮州木雕是中国民间雕刻工艺之一。因为雕刻完成后，需要在其表面贴上黄金，才能展现出富丽堂皇、精美的雕刻效果，所以潮州木雕又称“金漆木雕”或“金漆木雕”。",
+    "en": "Chaozhou wood carving is one of the folk carving crafts in China. Because after carving is completed, it is necessary to paste gold on its surface to show magnificent and exquisitely carved, so Chaozhou wood carving is also called â€œgolden wood carvingâ€ or â€œgolden paint wood carvingâ€.",
+    "project": "",
+    "category": "",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "p_29",
+    "type": "paragraph",
+    "zh": "金漆木雕是指在木雕完成后，使用金漆涂覆表面。它的优点是陈旧而不脏。",
+    "en": "Gold-lacquered wood carving refers to the use of gold paint to apply the surface after the completion of the wood carving. Its advantages are old and not dirty.",
+    "project": "",
+    "category": "",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "p_30",
+    "type": "paragraph",
+    "zh": "至于潮州木雕的传统工艺，主要可分为凹雕、浮雕、圆雕、珐琅雕，但通常以浮雕和珐琅雕相结合为主，最突出、最常用的技艺是锣雕。",
+    "en": "As for the traditional crafts of Chaozhou wood carving, it can be mainly divided into intaglio carving, relief carving, round carving, and enamel carving, but it is usually based on the combination of relief and enamel carving, and the most prominent and most commonly used technique is gong carving.",
+    "project": "",
+    "category": "",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "p_31",
+    "type": "paragraph",
+    "zh": "鹰雕又称“钳雕”，是空心雕刻，是一种可以多层次地表达内容主题的空心雕刻技法，即从单层发展到多层骨架。这种技法可以分为立体和平面两种，其中立体雕塑最为精彩。",
+    "en": "The eagle carving, also known as \"Tong carving\", is hollow carving, which is a hollow carving technique that can express the theme of the content on multiple levels, that is, it develops from a single layer to a multi-layered skeleton. This technique can be divided into two kinds: three-dimensional and flat, among which the three-dimensional sculpture is the most exciting.",
+    "project": "",
+    "category": "",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "p_32",
+    "type": "paragraph",
+    "zh": "它具有较大的容量和表现力。往往能使雕刻作品生动活泼，层次丰富，立体感强。无论是仙兽，还是珍稀鸟兽，还是四季花果，都可以兼具形灵的艺术效果。",
+    "en": "it has a large capacity and expressive force. It can often make the carved works lively, rich in levels, and strong in three-dimensional sense. Both fairy animals, rare birds and animals, and flowers and fruits of the four seasons can all have the artistic effects of both form and spirit.",
+    "project": "",
+    "category": "",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "p_33",
+    "type": "paragraph",
+    "zh": "一般来说，潮州木雕的工艺一般都是以选材、构图、粗剪、粗雕为主，最后是金漆，从而在红色的地板上形成金色的图案。",
+    "en": "In general, the process of Chaozhou woodcarving is generally based on material selection, composition, rough cutting, rough carving, and finally the gold paint, resulting in a gold pattern on the red floor.",
+    "project": "",
+    "category": "",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "p_34",
+    "type": "paragraph",
+    "zh": "潮州木雕是广东省的一种民间雕刻艺术，主要用于装饰建筑物、家具和祭祀用具。由于潮州木雕中常使用漆和金箔，因此又称“鎏金木”。它是中国现存最古老、最负盛名的木雕形式之一，以其精密、精致和栩栩如生的雕塑而闻名。",
+    "en": "Chaozhou woodcarving is a folk carving art in Guangdong province, mainly used to decorate buildings, furniture, and sacrificial utensils. As lacquer and gold foil are often applied to Chaozhou woodcarving, it is also known as \"gilt wood\". It is one of the oldest surviving and most reputable forms of woodcarving in China, and is famous for its precision, sophistication, and lifelike sculptures.",
+    "project": "",
+    "category": "",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "p_35",
+    "type": "paragraph",
+    "zh": "潮州木雕流传于华南广东省潮汕，流行于潮安、揭阳、朝阳、普宁、饶平等城市，这些城市都在古代潮州府。正因如此，雕刻的风格被称为潮州木雕。与浙江省东阳木雕并列为民间木雕的两大龙流之一。",
+    "en": "Chaozhou wood carving spread over Chaoshan in South China's Guangdong Province and is popular in cities like Chao'an, Jieyang, Chaoyang, Puning, and Raoping, all of which were in ancient Chaozhou prefecture. Because of this, the style of carving was called Chaozhou Woodcarving. Along with Dongyang woodcarving in Zhejiang Province, it is one of the two leading schools of folk woodcarving.",
+    "project": "",
+    "category": "",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "p_36",
+    "type": "paragraph",
+    "zh": "潮州木雕从粗犷的建筑木雕发展到挂屏、立屏、祠桌、茶柜、香桌等日用物品的精雕细琢。",
+    "en": "Chaozhou woodcarving was developed from a rugged architecture wood carving to fine carving for articles of daily use, like hanging screens, standing screens, shrine tables, tea cabinets, and incense burning tables.",
+    "project": "",
+    "category": "",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "p_37",
+    "type": "paragraph",
+    "zh": "潮州木雕是我国著名的民间传统木雕流派之一，主要流行于粤东的潮州、潮安、饶平、普宁、汕头、澄海、潮阳、揭阳、揭西、惠来等旧潮州府属地区， 以此故名。",
+    "en": "Chaozhou woodcarving represents a famous school of folk woodcarving in China, with great popularity in the Eastern Guangdong areas historically under the jurisdiction of Chaozhou Prefecture including Chaozhou, Chao'an, Raoping, Shantou, Chenghai, Chaoyang, Jieyang and Puning.",
+    "project": "",
+    "category": "",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "p_38",
+    "type": "paragraph",
+    "zh": "潮州木雕历史悠久，具有鲜明的地 方特色，以饱满繁复、精巧细腻、玲珑 剔透、金碧辉煌的艺术风格而著称于世。",
+    "en": "Chaozhou woodcarving enjoys a longstanding history with distinctive local characteristics. This form of art famous for its richness and subtlety of details, delicate and elaborate designs, exquisite craftsmanship and grand look.",
+    "project": "",
+    "category": "",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "p_39",
+    "type": "paragraph",
+    "zh": "那美仑美奂、造型各异的器物品类，那 生活气息浓郁、民俗意蕴深厚的题材纹 饰，那惟妙惟肖、纤毫毕现的雕刻工艺， 那豪华富丽、流光溢彩的漆金技法，形 象地展示着潮汕人的审美情怀和文化风 貌，具有独特的魅力和迷人的风采！",
+    "en": "The magnificent utensils in various shapes, the decorative patterns with rich sense of life and profound representation of local culture, the delicate and microscopic carving and the splendid and glorious lacquering and foil coating, are all vivid embodiment of the custom, fashion, culture and spirit of the Chaozhou-Shantou people, displaying its unique charm and enchanting elegance.",
+    "project": "",
+    "category": "",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "p_40",
+    "type": "paragraph",
+    "zh": "潮州木雕历史悠久，源远流长。它孕育和萌芽于唐代以前，发展于唐宋，成熟于明代晚期，清代中晚期达到鼎盛阶段，至抗日战争时期逐渐走向衰退。 新中国成立后，潮州木雕几经起伏，逐渐恢复，在传承与发扬中加以创新，风彩重现，成为中国首批非物质文化遗产 名录之一。",
+    "en": "Chaozhou woodcarving has a profound history, brewing prior to the Tang Dynasty, initiating in the Tang and Song Dynasties, maturing in the late Ming Dynasty, flourishing in the middle and late Qing Dynasty and gradually falling in the period of Anti-Japanese War. Since the founding of the New China, Chaozhou woodcarving has risen and fallen several times. It has a new life in the heritage and carrying forward, included in the First Batch of China Intangible Cultural Heritage.",
+    "project": "",
+    "category": "",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "p_41",
+    "type": "paragraph",
+    "zh": "潮州木雕的发展兴衰，生动地折射着潮汕地区历史和文化的变迁， 印证着潮汕人善于吸收融汇、精益求精、不懈进取的精神。",
+    "en": "The rise and fall of the Chaozhou woodcarving is a vivid reflection of the twists and turns in history and culture in the Chaozhou-Shantou area, witnessing Chaozhou-Shantou people's ability to absorb and digest innovations, their unremitting pursuit of improvement and perfection.",
+    "project": "",
+    "category": "",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "p_42",
+    "type": "paragraph",
+    "zh": "唐宋时期，潮州木雕不断发展，木雕制品初具水平，物像造型简洁粗犷，刀法刚劲洗练，风格拙朴浑厚。",
+    "en": "Chaozhou woodcarving initiated in the Tang and Song Dynasties, when the finished plain and vigorous style. woodcarvings were of a steady quality, featuring simple and vigorous figures, confident and clear cutting, and",
+    "project": "",
+    "category": "",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "p_43",
+    "type": "paragraph",
+    "zh": "明代，潮汕木雕逐渐应用到建筑、 祭器、家居陈设等方面。至明代晚期， 木雕艺人已能综合运用浮雕、沉雕、圆 雕和通雕等多种技法，并从平面雕饰向 单层通雕发展，技艺成熟，逐步形成地 方风格。雕刻题材丰富，物像造型简练， 神态生动逼真，刀法明快有力，具有较 高的艺术水平。",
+    "en": "In the Ming Dynasty, the application of woodcarving for decoration was extended o broader fields including architecture, worship and furnishing. By the late Ming Dynasty, woodcarvers began to combine various carving styles such as relief, intaglio, altorelievo and openwork with a shift from plain carving to single layer openwork, which marked the formation of the local style. These carvings were of high artistic value with their rich themes, plain image patterns, vivid expression and confident cutting.",
+    "project": "",
+    "category": "",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "p_44",
+    "type": "paragraph",
+    "zh": "清代，潮汕地区社会相对稳定，经济繁荣，木雕装饰成为社会风尚，特别是晚清时期，发家致富的海外华侨，纷纷出资在家乡大兴土木，营造祠堂、居室， 雕梁画栋，豪华壮丽，大大地刺激了木 雕艺术的发展。雕刻题材包罗广阔，工艺水平空前提高，多层镂空通雕技术炉火纯青，并与描金漆画、髹漆贴金等多种装饰技法相结合，以构图饱满、精巧细腻、玲珑剔透、金碧辉煌的艺术风格而闻名中外。",
+    "en": "Chaozhou woodcarving prospered in the Qing Dynasty, especially after the middle period. The stable society and prosperous economy brewed the fashion of decorative woodcarving, which greatly boosted the development of woodcarving. Woodcarving of this period features a broad range of themes, unprecedented improvement of craftsmanship, perfected multilayer openwork and the combination of various decorative techniques such as gold-traced lacquer painting, lacquering and foil coating. All these contribute to a world-renowned artistic style marked by richness and subtlety of details, delicate and elaborate design, exquisite craftsmanship and grand look.",
+    "project": "",
+    "category": "",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "p_45",
+    "type": "paragraph",
+    "zh": "民国初期，潮州木雕业上承清代之余绪，得以继续发展，工艺独到之作时有出现。抗战时期，社会动荡不安，经济萧条，民不聊生，百业凋零，昔日繁荣的潮州木雕业萎靡不振，逐渐走向衰退。",
+    "en": "In the early Republic of China ,Chaozhou woodcarving still extended from the Qing Dynasty and had a further development\nwith frequent sparkles in woodcarving works. The once prosperous Chaozhou woodcarving began to decline from its\nclimax in the period of the Anti-Japanese War (1937-1945), due to instable society, depressed economy and lack of means of\nlivelihood.",
+    "project": "",
+    "category": "",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "p_46",
+    "type": "paragraph",
+    "zh": "新中国成立以来，潮州木雕几经起伏，在传承与发扬中获得了新生，而木雕制品以满足当代人审美需求的独立摆件为主，题材、构图、造型、技法等方面均有突破，历史悠久的潮州木雕艺术绽放出了新的光彩。",
+    "en": "Since the founding of the New China, Chaozhou woodcarving has risen and fallen several times. It has a new life in the heritage and carrying forward. Chaozhou woodcarving takes independent ornaments as main products in order to meet the aesthetic needs of contemporary people , making breakthrough in theme, composition, shape and technique, etc. Historical Chaozhou woodcarving art bursts out new splendor.",
+    "project": "",
+    "category": "",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "p_47",
+    "type": "paragraph",
+    "zh": "2006 年潮州木雕被正式列入中国首批非物质文化遗产名录，成为中华民族的宝贵文化财富。",
+    "en": "It was formally included in the First Batch of China Intangible Cultural Heritage in 2006, becoming a valuable cultural wealth of the Chinese nation.",
+    "project": "",
+    "category": "",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "p_48",
+    "type": "paragraph",
+    "zh": "潮州木雕经过上千年的发展，在材料、工具、技法等方面自成特色。木雕艺人选择合适的木料，精心构思，因材施艺，运用不同的工具和独特的雕刻技法，制作出一件件精美的作品。",
+    "en": "Having developed for more than 1000 years, Chaozhou woodcarving has formed its unique characteristic in material, tools and techniques. Based on needs of design, woodcarvers applied different techniques according to the quality of the materials and practiced elaborate carving to produce countless delicate works.",
+    "project": "",
+    "category": "",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "p_49",
+    "type": "paragraph",
+    "zh": "潮州木雕所用材料主要有木料、漆 料、颜料、金属粉箔等四类。所用木料 主要有樟木、杉木、苦楝木、花梨木等 多种，以樟木、杉木最为常见。",
+    "en": "Common materials used in Chaozhou woodcarving can be put into the four categories of wood, lacquer, pigment and foil. Common woods include camphor,chinafir, chinaberry and rosewood, amongwhich camphor and chinafir are commonest.",
+    "project": "",
+    "category": "",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "p_50",
+    "type": "paragraph",
+    "zh": "漆料多为植物漆，经过调制，髹涂于木雕器物 的外表，起保护、装饰之用。颜料、金属粉箔则按实际需要描绘或粘贴于器表，进一步强化装饰效果。",
+    "en": "Lacquer is usually made from plant and is applied to the surface of the woodcarving works for protection and decoration. Pigment and foil are painted or coated to the surface to further improve the decorative effect according to the actual needs.",
+    "project": "",
+    "category": "",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "p_51",
+    "type": "paragraph",
+    "zh": "樟木是潮州木雕的首选木料， 分黄樟、红樟、乌肚樟、灰白樟等多种， 以山区出产的黄樟为最佳。",
+    "en": "Camphor is the first choice for Chaozhou woodcarving and comes in various shades of colors, such as yellow, red, black and grey, among which yellow camphor from the mountainous areas is the best.",
+    "project": "",
+    "category": "",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "p_52",
+    "type": "paragraph",
+    "zh": "潮州木雕所用漆料多为植物漆，分生漆、熟漆两种。生漆是经过过滤的天然漆树汁液；熟漆即经过炼制的漆，是在生漆中加入适量桐油，在太阳 光的热晒下不停地搅拌三、四天，使漆的性能变得柔和而有光泽，并且不易干 燥，以便粘贴金箔。",
+    "en": "Most lacquer used in Chaozhou woodcarving is made from plant and comes in either raw lacquer or refined lacquer. Raw lacquer is the filtered extract from natural lacquer plant (usu. cashew) while refined lacquer is the mixture of raw lacquer and a suitable amount of Chinese wood oil. This mixture is kept under continuous mixing in the sun for three or four days to make it soft, glossy and uneasy to dry for the convenience of foil coating",
+    "project": "",
+    "category": "",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "p_53",
+    "type": "paragraph",
+    "zh": "潮州木雕常用的颜料有正银朱、黄漂、红丹、乌烟、铜绿、砂绿、孔雀蓝、酞酯蓝、石黄、藤黄等。",
+    "en": "The common pigment used in Chaozhou woodcarving comes in vermilion, permanent red, black, bronze green, sand green, peacock blue, blue, orpiment, gamboges, etc.",
+    "project": "",
+    "category": "",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "p_54",
+    "type": "paragraph",
+    "zh": "其用途一是加入漆料，调配成色漆。在漆料中调入红颜料，可使金箔的颜色更加辉煌亮丽。",
+    "en": "One use of the pigment is to add color to lacquer through mixing. Chaozhou woodcarvers tend to add red colors to lacquer to achieve an extra shine in the foil coating.",
+    "project": "",
+    "category": "",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "p_55",
+    "type": "paragraph",
+    "zh": "二是根据装饰需要调配各色颜料，髹涂于木雕饰件的外表，或用平涂、没骨、钩填等技法在器物漆面上绘画各种纹饰。",
+    "en": "Another use of the pigment is to mix it to different shades of colors and paint it to the surface of the woodcarving works or to paint different decorative patterns on the lacquered surface of utensils through different techniques.",
+    "project": "",
+    "category": "",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "p_56",
+    "type": "paragraph",
+    "zh": "潮州木雕被誉为中国国家级非物质文化遗产之一，长期以来一直是奢华和精致品味的标志。但现在，新一代工匠的新一波创造力正在将这种拥有数百年历史的工艺转变为当今观众充满活力、易于理解的艺术形式。",
+    "en": "Chaozhou wood carving, crowned as one of China’s national intangible cultural heritages, has long been a hallmark of luxury and refined taste. But now, a fresh wave of creativity from a new generation of artisans is transforming this centuries-old craft into a vibrant, accessible art form for today’s audiences.",
+    "project": "",
+    "category": "",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "p_57",
+    "type": "paragraph",
+    "zh": "从历史上看，潮州木雕是宏伟而复杂的杰作——精美但创作起来却非常耗时。这些奢华的作品经常作为身份的象征装饰富人的家，但价格却令人瞠目结舌。虽然令人惊叹，但它们雄伟的尺寸和独特性将它们限制在精英阶层中，让日常艺术爱好者置身事外。",
+    "en": "Historically, Chaozhou wood carvings were grand, intricate masterpieces—exquisite but painstakingly time-consuming to create. These lavish pieces, often adorning the homes of the wealthy as status symbols, came with eye-watering price tags. While awe-inspiring, their imposing size and exclusivity confined them to the elite, leaving everyday art lovers out of the loop.",
+    "project": "",
+    "category": "",
+    "strategy": "",
+    "source": "beyondheadlines"
+  },
+  {
+    "id": "p_58",
+    "type": "paragraph",
+    "zh": "潮州木雕流行粘贴或髹涂金属粉箔的装饰手法，所敷贴的金属粉箔 主要有金箔、银箔、锡箔、铝箔、铜粉 （俗称金粉）等，其中以金箔最为常用。 髹漆贴金装饰是潮州木雕的主要特点之 一，故又有“金漆木雕”之称。",
+    "en": "Foil coating and painting are popular in Chaozhou woodcarving. Common foils are gold foil, silver foil, tin foil, aluminum foil and brass powder (commonly known as gold powder), among which gold foil is commonest. As foil coating and painting is one of its major features, Chaozhou woodcarving is also known as gilt woodcarving.",
+    "project": "",
+    "category": "",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "p_59",
+    "type": "paragraph",
+    "zh": "潮州木雕艺人所用的工具多种多样，按其功能可分为选材取坯工具、雕刻工具、调漆工具、打磨工具、髹涂工具、描绘工具、敷贴工具等七大类。",
+    "en": "Chaozhou woodcarvers use a variety of tools in their work, which can be categorized according to function into shaping tools, carving tools, mixing tools, grinding tools, coating tools, painting tools, and pasting tools.",
+    "project": "",
+    "category": "",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "p_60",
+    "type": "paragraph",
+    "zh": "叩槌是木雕艺人雕刻时用来 敲击雕刻刀具的槌子，俗称“叩槌“。槌 身为坚实的龙眼木，槌柄则为杂木。木质叩槌具有弹性，起缓冲作用，便于控制敲击力度，是木雕艺人不可缺少的工具。",
+    "en": "Wooden hammeris used to strike the chisel during carving. The head of the hammer is made of longan wood while the handle of any available wood. The springy wooden hammer offers a buffer in striking and thus facilitates the control of striking force. It is an indispensable tool for woodcarvers.",
+    "project": "",
+    "category": "",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "p_61",
+    "type": "paragraph",
+    "zh": "潮州木雕的传统雕刻技法主要有沉雕、浮雕、通雕和圆雕四种，其中以多层次的镂通雕最具特色。木雕艺人可根据不同的装饰部位和艺术要求而灵活运用，各施其技，力求做到美观实用。",
+    "en": "The traditional carving techniques in Chaozhou woodcarving are mainly four: relieve, intaglio, altorelievo and openwork, among which multilayer openwork is most typical. The woodcarvers adapt their techniques to different positions and artistic needs for better effects of beauty and application.",
+    "project": "",
+    "category": "",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "p_62",
+    "type": "paragraph",
+    "zh": "沉雕即阴刻，图案纹饰低凹于木料平面，雕刻简便省工，纹饰不易受损， 多用于房门、屏风门、橱柜门等建筑和 家具饰件上容易受损的部位。纹饰以花木虫鸟最常见。构图疏朗，刀法简练，画意浓郁。",
+    "en": "Intaglio is a pattern carved into or beneath the surface of the wood. As this kind of carving is easily accomplished with little damage to the patterns, it is often applied to susceptible positions on room doors, screen doors, cabinet doors and other furniture. The commonest patterns are flowers, trees, insects and birds. The elements are thinly scattered and plainly carved, much after the style of traditional Chinese paintings.",
+    "project": "",
+    "category": "",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "p_63",
+    "type": "paragraph",
+    "zh": "浮雕又称阳雕，所雕图案纹饰凹凸起伏于木料平面，并有地子作衬托。按图案纹饰浮突的高低又有浅浮、中浮、 高浮之分。",
+    "en": "Relief is the projection of patterns from the surface of the wood with a flat background. Relief can take the form of low relief, medium relief and high relief according to the degree of projection.",
+    "project": "",
+    "category": "",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "p_64",
+    "type": "paragraph",
+    "zh": "通常，浮突1厘米属浅浮雕，浮突2厘米的属中浮雕，浮突3厘米以上的属高浮雕。高浮雕又有“打浮”、“叠浮”、“钉浮”之别。",
+    "en": "Usually a projection of 1 cm is low relief, a projection of 2 cm is medium relief whilethat higher than 3 cm is called high relief. High relief is further categorized intostruck relief, superposed relief, nailed relief.",
+    "project": "",
+    "category": "",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "p_65",
+    "type": "paragraph",
+    "zh": "“打浮”是潮州木雕传统浮雕技法之一，其方法是在整块木料上浮雕景物，将景物之外的空间铲平，使之略低于景物的平面，再雕刻图案纹样作为衬地，并将板面镂通。因以木槌敲打凿刀将板面凿通，故谓之“打浮”。",
+    "en": "In struck relief, images are carved on the whole piece of wood while the remaining part is smoothed into a plain lower than the images to form the background, which is then patterned. The plank is then chiseled through, hence the name struck relief, as a wooden hammer is used to strike the chisel through the plank.",
+    "project": "",
+    "category": "",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "p_66",
+    "type": "paragraph",
+    "zh": "叠浮是指镂空衬地图案与浮雕主体物像是以两块木料分别雕刻制作，然后叠在一起，用粘胶固定成为一件完整的木雕。",
+    "en": "Superposed relief features the superposition of the major images on the background, both in high relief but each on a separate plank, which is stuck together with glue.",
+    "project": "",
+    "category": "",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "p_67",
+    "type": "paragraph",
+    "zh": "圆雕是立体雕刻，物像形体的四面皆可欣赏。其技法是先将多余的部分锯去，粗雕出主体和陪衬部分的轮廓，再从上至下，由表至里，逐层凿削，先粗雕，后细雕，再细刻磨光部分。",
+    "en": "Altorelievo gives a three-dimensional effect that can be viewed from any angle of the image or object. The first step of this technique is to saw off unwanted parts and carve the rough shape of the main body and background. Then the details are carved layer by layer in a top-down and outside-in manner, following the sequence of rough shaping before elaboration.",
+    "project": "",
+    "category": "",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "p_68",
+    "type": "paragraph",
+    "zh": "圆雕多用于建筑饰件、礼祭器具以及家具陈设的局部构件。单独陈设于几架上的圆雕摆件出现较晚。",
+    "en": "Altorelievo is often used in components of decorative utensils in buildings, ceremonial utensils and furnishings. Independent furnishings for display in altorelievo appeared very late.",
+    "project": "",
+    "category": "",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "p_69",
+    "type": "paragraph",
+    "zh": "通雕又称透雕，是吸收沉雕、浮雕、圆雕和绘画的长处，融合变通而成，物像形体作多层次布局，物像之外的部位通体穿透。通雕层次的多少，视材质厚薄和雕刻技艺高低而定，少则二三层，多则四五层，超过七层者极为少见。通雕又分锯通雕、多层镂通雕两种形式。",
+    "en": "Openwork is the evolution from intaglio,relief, altorelievo and painting, with multilayer composition of images and complete opening at positions without images. The number of layers, dependent on both the thickness of the wood and the skills of the woodcarvers, usually ranges from two to five, rarely more than seven.Openwork can take the form of either sawn openwork or carved openwork.",
+    "project": "",
+    "category": "",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "p_70",
+    "type": "paragraph",
+    "zh": "锯通雕是先在裁截好的木料上画好图样，然后用钢线锯沿着图样的轮廓线锯出所需要的图像，再以雕刻刀修整锯通的洞眼并对图像略加雕饰而成。锯通雕制作简单便捷，宜于表现线条规整的单层景物。",
+    "en": "Sawn openwork is made by sawing out the desired image with a steel wire saw along the contour line drawn on the wood in advance. This is followed by trimming of the holes and slight decoration of the images with a carving knife. This easily-achieved style is suitable for single-layer images with regular lines.",
+    "project": "",
+    "category": "",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "p_71",
+    "type": "paragraph",
+    "zh": "多层镂通雕是在裁整好的木料上作多层次雕刻，体积深厚、丰满，物像层层叠叠，交错穿插，具有玲珑剔透的效果。适合表现人物众多、情节复杂、场面宏大、景物丰富的题材，最能体现潮州木雕的雕刻水平和艺术特色。",
+    "en": "Multilayer openwork is the carving on various layers of the same piece of wood, creating rich, in-depth, overlapping and interwoven images and an exquisite effect. Suitable for themes with numerous figures, complicated plots, grand views and rich scenery, this style is the best representative of the level and characteristics of Chaozhou woodcarving.",
+    "project": "",
+    "category": "",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "p_72",
+    "type": "paragraph",
+    "zh": "潮州木雕的制作有一系列的工艺程序，以髹漆贴金木雕为例，其制作过程可分为整料、起草图、上草图、凿粗坯、细雕刻、髹漆贴金等六道工序。",
+    "en": "The production of Chaozhou woodcarving follows a series of procedures. Take lacquered and foil-coated woodcarving for example, the process undergoes six steps: material preparation, drafting, printing, rough shaping, fine carving and coating.",
+    "project": "",
+    "category": "",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "p_73",
+    "type": "paragraph",
+    "zh": "整料就是根据装饰部位和雕刻题材挑选合适的木料，对于大件器物， 如难以找到完整的木料或者为了降低成本，可采取变通的办法，将几块材料拼接在一起。",
+    "en": "Material preparation involves the selection of suitable wood according to the position and theme of the desired carving. In case of difficulty to find a complete timber for a large utensil, or in need of cost reduction, connection of 30 several pieces can be accepted as an alternative.",
+    "project": "",
+    "category": "",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "p_74",
+    "type": "paragraph",
+    "zh": "上草图的传统方法是在草图的反面用柔软的木炭或灯烟描绘一遍，然后准确地把图纸压在需要雕刻的木料上，用手均匀地压抹，图案即可印在木料上。现在多采用复印的办法，将草图的复印件直接贴在木料上，按图雕凿，方便快捷，省工省时。",
+    "en": "The traditional way is to trace the lines on the back of the draft with soft charcoal or lamp black and then press the paper against the prepared wood. Pressing and rubbing the paper with even force from the hand will leave the drafted pattern on the wood. The modern way is to directly paste the photocopied draft on the wood and follow the lines in carving. This easier way saves efforts and time.",
+    "project": "",
+    "category": "",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "p_75",
+    "type": "paragraph",
+    "zh": "上好草图后，即开始雕刻的第一道工序——凿粗坯，打凿出作品的大体轮廓和结构。",
+    "en": "After printing comes the first step of real carving. Rough shaping yields the basic contour and structure of the carving in the top-down and outside-in sequence.",
+    "project": "",
+    "category": "",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "p_76",
+    "type": "paragraph",
+    "zh": "打凿时，一般是由上至下，由表及里。要考虑木材的质地纹路，讲究构图布局，注意人物景观的比例和景物体积容量。还要考虑沿厚度方向每层的厚薄安排。",
+    "en": "Consideration is taken of the quality and texture of the wood, the theme of the carving, the scale and size of the scenery and images, as well as the thickness of each layer.",
+    "project": "",
+    "category": "",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "p_77",
+    "type": "paragraph",
+    "zh": "凿粗坯是很关键的 一道工序，决定着作品的成败，故多由经验丰富的老艺人亲自把关。",
+    "en": "Rough shaping is an essential step that decides the outcome of the carving, and consequently it is usually done by experienced woodcarvers.",
+    "project": "",
+    "category": "",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "p_78",
+    "type": "paragraph",
+    "zh": "在粗坯定形的基础上，先将外层的形体修削平滑，再深入内层，完成人物神态、衣饰装扮、树木枝叶、脉络等细部雕刻，完善作品。",
+    "en": "With a rough shape, the outer surface of the images is to be trimmed and smoothed first, followed by the refining of the inner layers as well as elaboration of the details such as expressions and manners of human figures, clothes and ornaments, twigs, leaves and venations. This brings the carving to perfection.",
+    "project": "",
+    "category": "",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "p_79",
+    "type": "paragraph",
+    "zh": "髹漆贴金是潮州木雕最常见的装饰手法，即在雕刻工序完成后，在器物表面髹涂漆料三遍以上，然后上再涂上一层金胶漆，放入特设的漆房晾干，待金胶漆层将干未干之时，在无风的场所，用软刷将金箔逐片擦粘在木雕表面上，敷贴金箔的木雕作品具有金光闪闪、豪华富丽的装饰效果。",
+    "en": "Lacquering and foil coating is widely applied in Chaozhou woodcarving. After the carving steps, the surface of the utensils lacquered and coated with foil when the lacquer is half dry, which brings a glittering and glowing effect to the article. The coating process usually takes six steps: curing, filtering, filling, painting, drying and coating.",
+    "project": "",
+    "category": "",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "p_80",
+    "type": "paragraph",
+    "zh": "潮州木雕经过一代又一代艺人的实践和摸索，不断吸收其它门类艺术的精华，熔中国传统文化和地方民俗文化于一炉，并迎合潮汕人的审美情趣和生活需求，逐步形成了题材丰富、构图饱满、 精巧细腻、玲珑剔透、金碧辉煌的艺术特点，成为中国民间传统木雕的一朵奇葩。",
+    "en": "Having been practised and explored by generation after generation of woodcarvers, Chaozhou woodcarving has absorbed the essence of other forms of art, combined traditional Chinese culture and local folk culture, and catered to the sense of beauty and needs of life of the Chaozhou-Shantou people. All these craftsmanship and grand look，efforts have contributed to the artistic features of a broad range of themes, richness and subtlety of details, delicate and elaborate design, exquisite which make Chaozhou woodcarving a most beautiful flower in traditional Chinese folk woodcarving.",
+    "project": "",
+    "category": "",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "p_81",
+    "type": "paragraph",
+    "zh": "潮州木雕题材广泛，内容丰富，除了民间广泛流传的历史典故、戏剧故事、人物山水、吉祥图案等传统题材以外，还包括人们喜闻乐见的地方风物、民间 传说、民俗生活等内容，具有浓厚的生活气息和鲜明的地方特色",
+    "en": "The variety of themes in Chaozhou woodcarving not only includes such traditional themes as stories from history, plays, human figures, landscapes and auspicious patterns, but also includes local productions and scenery, legends and folklores as well as customs and the life of ordinary people, which gives it a strong sense of life and local characteristics.",
+    "project": "",
+    "category": "",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "p_82",
+    "type": "paragraph",
+    "zh": "人物类题材包括民间广泛流传的历史典故、戏剧曲艺、民间故事、神话传说以及现实社会生活等方面。特点是以人物为中心，具有一定的故事情节，符合传统的伦理道德观念，既可满足人们的审美需求，又具有成教化、助人伦的作用。",
+    "en": "Human figures includes stories from history, plays and operas, novels, legends and folklore, fairy tales and myths as well as various aspects of real life. The common feature of these themes is to focus on human beings. As they entail certain stories in line with traditional moral standards, they not only cater to people’s sense of beauty, but also help to enhance moral teaching.",
+    "project": "",
+    "category": "",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "p_83",
+    "type": "paragraph",
+    "zh": "自然物像类题材是指以动植物、山水风景等自然景物以及人们日常使用的各类器具什物作为主体。或直接描绘刻划，或按一定的主观意念，以自然为母本，创造出不同寓意的各种吉祥图案，从侧面反映了人们崇拜祖先、追求富贵、祈求吉祥、向往功名以及忠、孝、节、义等传统思想观念。",
+    "en": "Natural images features natural images such as animals and plants, landscape and scenery, as well as various utensils used in daily life. These images are either directly depicted or transformed according to certain conceptions into various auspicious patterns with different significances. They are the indirect reflection of traditional worship of ancestors, pursuit of wealth and honor, longing for position and reputation, as well as approval of such merits of loyalty, unrighteousness, integrity, and filial piety.",
+    "project": "",
+    "category": "",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "p_84",
+    "type": "paragraph",
+    "zh": "几何图案类题材是指由点、线以及正方形、三角形、六角形、圆形等几何 形体组合成具有审美价值的图像。主要用于门窗、横披、格窗以及多层镂通雕 的“地子”。主要形式有：步步紧、拐子纹、回纹、套环、龟背纹等，雕刻手法以锯通雕为最多，具有较强的装饰效果。",
+    "en": "Geometric patternsare patterns consisting of such geometric shapes as dots, lines, squares, triangles, hexagons and circles in aesthetic combination. Mainly applied to doors, windows, horizontal hanging scrolls, panes, and the background of multilayer openwork, the major patterns include overlapping squares, zigzagging lines, looping lines, overlapping circles and linking hexagons. Sawn openwork is the commonest carving style, which enhances the decorative effects of the carving.",
+    "project": "",
+    "category": "",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "p_85",
+    "type": "paragraph",
+    "zh": "潮州木雕善于充分利用空间，物像平列铺陈，不作或少作重叠，各个物像清晰可见。惯于将不同时空的人物或场景安排在同一个画面中。",
+    "en": "Full use of space is an advantage of Chaozhou woodcarving. The images are mostly laid out on the same plain with little or no superposition, so that each image is conspicuous. In the same manner, figures or scenes of different time and space are placed in the same frame",
+    "project": "",
+    "category": "",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "p_86",
+    "type": "paragraph",
+    "zh": "画面结构常作对称布局，主体物象居中，次要物象作左右或上下对称安排，具有构图丰满、布局匀称、和谐庄重的艺术特点。其构图布局可概括为三种形式：格律体构图、平视体构图、立视体构图。",
+    "en": "The frame is usually a symmetric one, with the major image in the middle and secondary images arranged symmetrically to the four sides. This brings rich composition, regular layout and harmonious and solemn air to the carving. There are three types of composition in Chaozhou woodcarving: metrical composition, isometric composition and perspective composition.",
+    "project": "",
+    "category": "",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "p_87",
+    "type": "paragraph",
+    "zh": "格律体构图是以曲、直、方、圆等几何形体为架构，在规矩中求变化，通过巧妙构思，从上下、左右、大小、主宾、虚实等方面灵活安排，创造出千差万别又结构严谨的图案，具有交代清楚、脉络分明、均衡匀称、节奏感强的特点。",
+    "en": "Metric composition is based on the basic arrangement made up of geometric shapes, curved, straight, square or round ones. Upon elaborate planning, transformation is made to the regular shapes in their vertical position, transverse position, size, focus, salience, etc., which creates varied though 38 precisely structured patterns. Such a composition features clear narration, logical arrangement, balanced scale and strong rhythm.",
+    "project": "",
+    "category": "",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "p_88",
+    "type": "paragraph",
+    "zh": "平视体构图是把物像的个性、特征加以概括提炼，适度夸张变形，突出轮廓特征，然后将其形像用排比重复的方式安排成一个平面，无远近透视，形像的重心在一条视平线上，作平面处理。构图自由，富于装饰性，多用于自然物像类题材。",
+    "en": "Isometric compositionis a non-perspective composition, which gives prominence to generalized and exaggerated features of images and arranges them on a plain in a repeated array. The focus of image is on a single eye line, which decides the plain. Such a free and decorative composition is often used for natural images.",
+    "project": "",
+    "category": "",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "p_89",
+    "type": "paragraph",
+    "zh": "立视体构图是在平视体的基础上，作散点透视，以大观小，空间不受透视的限制，根据需要对衬景进行灵活取舍，突出人物主体。",
+    "en": "The perspective composition of Chaozhou woodcarving is essentially cavalier perspective based on isometric composition, which aims to give prominence to the main figure through adaptive selection of background scenery.",
+    "project": "",
+    "category": "",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "p_90",
+    "type": "paragraph",
+    "zh": "其具体表现手法主要有两种：一是主体居中，画面向两边同时倾斜，多用于人物故事类题材；二是同时看物像的左右侧面，倾斜度小于 45°，多用于浮雕博古花鸟等纹饰。",
+    "en": "This is achieved in two major ways. One is to place the main figure in middle with the background sloping to both sides, which is often used for figures and stories. The other is to distinguish the side views of images with a slope of smaller than 45 degrees, which is often used for ancient patterns and patterns of flowers and birds.",
+    "project": "",
+    "category": "",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "p_91",
+    "type": "paragraph",
+    "zh": "为迎合人们的审美趣味，并使不同的装饰部位均能达到理想的观赏效果，木雕艺人经过长期的实践，摸索出多种独特的艺术处理手法，如周身布饰、巧设路径、合理夸张等。",
+    "en": "To cater to the aesthetic needs of people and achieve ideal effects at different positions of decoration, woodcarvers have created various unique skills through ages of practice, such as spread decoration, artful cohesion and exaggeration.",
+    "project": "",
+    "category": "",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "p_92",
+    "type": "paragraph",
+    "zh": "潮州木雕追求饱满繁复的效果，其中以清代鼎盛阶段的木雕作品最为显著，人物、景观、花鸟等题材常常布满整个装饰面。",
+    "en": "Rich and complicated composition is the pursuit of Chaozhou woodcarving, especially in its prospering days. The frame\nof a woodcarving is often spread over by figures, scenery, flowers and birds, etc.",
+    "project": "",
+    "category": "",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "p_93",
+    "type": "paragraph",
+    "zh": "为了在有限的装饰面上表现尽可能多的情节内容，木雕艺人往往按照故事情节的发展顺序，截取典型的画面并将其分成几个部分，排列成“之”字形或 “S”形，并且注意处理好人物神情、动 态的相互呼应和时空过渡，从而组成一个有分有合的整体。",
+    "en": "In order to contain as much plots as possible in a limited frame, woodcarvers often select typical events from a story according to its development and divide it into several scenes arranged in a zigzag or S-shape. The expressions and actions of figures in different scenes correspond to each other as the time and place continue themselves, creating a cohesive story with independent parts.",
+    "project": "",
+    "category": "",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "p_94",
+    "type": "paragraph",
+    "zh": "“七贤进京”是潮州木雕艺术的著名题材，它把潮州历史上不同时期科举登第、进京为官的七位乡贤的故事融合浓缩在一起，寓海滨邹鲁连科登甲之意。",
+    "en": "Seven Scholars Going to the Capital for Imperial Examinations is a popular theme in Chaozhou woodcarving. The stories of seven scholars passing the imperial examinations and assuming office in the capital in different periods of history are 43 told together for the auspicious connotation of consecutive success in the imperial examinations.",
+    "project": "",
+    "category": "",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "p_95",
+    "type": "paragraph",
+    "zh": "潮州木雕惯于采取合理的夸张手法，突出表现雕刻题材的动人之处，增加艺术感染力。其夸张处理主要体现在对人物动作、体态的刻划上，强调动势，用动作来表现人物内心。",
+    "en": "Exaggeration is a common skill used in Chaozhou woodcarving to give prominence to the affecting part of the expressed theme, thus enhancing the impressive power of the work. Exaggeration is mainly carried out in the actions and manners of figures with an emphasis on movement, through which the inner world of figures is exposed.",
+    "project": "",
+    "category": "",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "p_96",
+    "type": "paragraph",
+    "zh": "人物刻划不追求正常比例，常常突出头部，头大身小，人大景小，增强了整体装饰力度。",
+    "en": "Normal scale is neglected in the depiction of figures, often with an emphasis on the head. The large head in contrast to the small body and the large figures on the background of the small scene adds to the effect of overall decoration.",
+    "project": "",
+    "category": "",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "p_97",
+    "type": "paragraph",
+    "zh": "潮州木雕往往集雕刻、髹漆、贴金、绘画等多种工艺于一身，综合应用，数艺并施，色彩艳丽，豪华庄重，在中国木雕艺术中自成一格。",
+    "en": "Various techniques such as carving, lacquering, coating and drawing are combined in Chaozhou woodcarving in a comprehensive way, which gives it a 45 colorful, magnificent and solemn style, accounting for its uniqueness among Chinese woodcarving.",
+    "project": "",
+    "category": "",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "p_98",
+    "type": "paragraph",
+    "zh": "潮州木雕非常注意木雕器物或场景性木雕装饰的总体设计，在满足实用功能的前提下，注意从结构的安排、空间的分割、题材的选择、色彩的搭配、构图布局的协调等多方面进行周密设计。",
+    "en": "Overall design of utensils and scenic decoration has attracted great attention in Chaozhou woodcarving. Under the prerequisite of meeting practical needs, careful consideration is given to the arrangement of structure, division of space, selection of themes, collocation of colors and the adjustment of composition.",
+    "project": "",
+    "category": "",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "p_99",
+    "type": "paragraph",
+    "zh": "潮州木雕总的特点是讲究整体对称均衡、和谐协调，具有豪华而又庄重的总体风格。其总体装饰主要有黑漆装金、五彩装金、本色素雕三种。",
+    "en": "The general features are symmetric and balanced composition, harmonious effect and magnificent and solemn style. The overall decoration of Chaozhou woodcarving takes three major forms: foil coating on black lacquer background, foil coating on colorful background and natural 46 color woodcarving.",
+    "project": "",
+    "category": "",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "p_100",
+    "type": "paragraph",
+    "zh": "在雕刻部位贴饰金箔，而在雕刻部位以外的空间（即“地子”）髹涂黑漆或黑色推光漆，色彩对比鲜明，风格华丽庄重，是潮州木雕常见的装饰手段。",
+    "en": "Carved positions are coated with gold foil against the background of lack lacquer or polished black lacquer. Stark in color contrast and magnificent and solemn in style, this is a common decorative form in Chaozhou woodcarving.",
+    "project": "",
+    "category": "",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "p_101",
+    "type": "paragraph",
+    "zh": "雕刻部位作贴金装饰，其余空间则以大红大绿或紫红、粉黄等颜色作彩绘装饰，互相衬托，具有金碧辉煌的效果。",
+    "en": "Carved positions are coated with gold foil against the background of colorful paintings, which set off each other and create a magnificent effect.",
+    "project": "",
+    "category": "",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "p_102",
+    "type": "paragraph",
+    "zh": "保留木雕材质的本色，不加油漆， 或仅在器物边缘加上油漆，作为衬托， 使作品的自然纹理和人工雕削清晰显 露，风格朴素净雅。主要用于围屏、小 神龛、薰炉罩等器物装饰，为数不多。",
+    "en": "Natural color woodcarving is carving on natural wood without lacquer or on utensils lacquered only on the edge as setoff. Such a treatment maintains the natural grains of the wood and the clear signs of the carving process, creating a simple and neat style. Natural color woodcarving is scarcely applied and is mainly found in the decoration of such utensils as large screens, small shrines andincense burner covers.",
+    "project": "",
+    "category": "",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "p_103",
+    "type": "paragraph",
+    "zh": "漆画是潮州木雕器具的一种常见装饰手法，方法是先在漆料中按比例混入颜料并调匀，然后用画笔蘸颜料直接在经过髹漆处理的装饰部位进行绘画。",
+    "en": "Lacquer painting is a common method of decoration in Chaozhou woodcarving. Pigment is mixed evenly into lacquer in a certain scale and painted to desired positions with a drawing brush.",
+    "project": "",
+    "category": "",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "p_104",
+    "type": "paragraph",
+    "zh": "常见的漆画形式有描金漆画、磨金漆画、彩漆画等。精细华丽的漆画与雕刻贴金等装饰手法相结合，相互映衬，精彩生辉。",
+    "en": "According to the material used, lacquer painting is usually categorized into gold-traced lacquer painting, gold-shined lacquer painting and pigmented lacquer painting, etc. The decorative methods of Chaozhou woodcarving are various, often featuring the combination of lacquer painting and coating, which achieves the effect of mutual setoff.",
+    "project": "",
+    "category": "",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "p_105",
+    "type": "paragraph",
+    "zh": "在光素的漆面上，用红漆绘好画面，待红漆将干而未全干略带粘感时贴上金箔或涂抹金粉，然后罩透明漆，经推光后即可。",
+    "en": "The desired images are painted in red lacquer on smooth lacquered surface, on which gold foil or powder is applied while the red lacquer is nearly dry with a little stickiness. The coated surface is then covered with a layer of transparent lacquer and polished.",
+    "project": "",
+    "category": "",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "p_106",
+    "type": "paragraph",
+    "zh": "工艺讲究的描金漆画，要在罩透明漆之前，用细毛笔蘸特制的 “洗漆水”，在主体纹饰的轮廓线上清洗一次，从而突出主体，增强画面的空间感。",
+    "en": "In more demanding cases, a special lacquer solvent is applied to the contour lines of the images with a fine brush, so that more salient images and stronger stereoscopic effect are achieved.",
+    "project": "",
+    "category": "",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "p_107",
+    "type": "paragraph",
+    "zh": "磨金漆画是用松脂油调漆加金粉，在光素的漆面上涂绘画面，晾干\n后用木炭或磨石夹水打磨，使画面光亮平滑即可。多装饰在寿屏、屏风门、神龛、柜橱、馔盒、糖果架等器物的局部。",
+    "en": "Gold-shined lacquer painting is painted on smooth lacquered surface with the mixture of lacquer, turpentine and gold powder. Upon drying, the images are shined and smoothed with charcoal or holystone in water. This kind of painting is often used to decorate screens, shrines, cabinets, food containers and candy shelves.",
+    "project": "",
+    "category": "",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "p_108",
+    "type": "paragraph",
+    "zh": "在推光漆板上先用画笔画出纹样，然后用漆绘笔粘彩漆料，以平涂\n法分别填入红、绿、黄等色，再用特制的铁笔开线，画好后罩上透明漆即可。",
+    "en": "Pigmented lacquer painting is painted on the smoothed\nlacquered plank with a drawing brush, and then pigmented lacquer is spread onto the images for coloring, after which a special iron pen is used to trace the contour lines. The painting is finished with a layer of transparent lacquer.",
+    "project": "",
+    "category": "",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "p_109",
+    "type": "paragraph",
+    "zh": "彩漆画写实性较强，配色复杂多样，工艺要求较高，耗工费时，故不太流行。",
+    "en": "The pigmented lacquer painting is not popular as it features realistic images, complicated colors, demanding craftsmanship, which consumes extra labor and time.",
+    "project": "",
+    "category": "",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "p_110",
+    "type": "paragraph",
+    "zh": "铁线描是潮州漆画艺术的一种独特工艺，其方法是在描金漆画、磨\n金漆画或彩漆画的基础上，用特制的铁笔在画面上刻划出人物、山水、器物等的轮廓和细部，使画面更加细腻逼真，因所刻划的线条细如铁线，故统称为铁线描漆画。",
+    "en": "Iron-wire-traced lacquer painting is a unique decorative technique in Chaozhou woodcarving. A special iron pen\nis used to trace the contour lines or details of figures, landscapes and objects in ready-made gold-traced, gold-shined or\npigmented lacquer paintings to achieve an exquisite and lifelike effect. As the traced line is as small as an iron wire, the painting\nis called iron-wire-traced lacquer painting.",
+    "project": "",
+    "category": "",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "p_111",
+    "type": "paragraph",
+    "zh": "如铁线描漆画与磨金漆画结合，则称为磨金铁线描漆画；与彩漆画结合则为彩绘铁线描漆画。",
+    "en": "Such an iron-wire-traced lacquer  painting on the background of a gold-shined lacquer painting is called a gold-shined iron-wire-traced lacquer painting, and a pigmented iron-wire-traced lacquer painting on the background of a pigmented lacquer painting.",
+    "project": "",
+    "category": "",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "p_112",
+    "type": "paragraph",
+    "zh": "明清以来，潮州木雕日趋流行，广泛应用到建筑装饰、礼祭器具、家居陈设等各个方面并以其精湛的技艺、华丽的气派而成为潮汕地区广大民众普遍追求的社会时尚。",
+    "en": "With an increasing favor of decorative woodcarving among the Chaozhou-Shantou people in the Ming and Qing Dynasties, woodcarving was widely applied According to its use and function, Chaozhou woodcarving can be put into three categories: architectural decorations， ritual utensils and furniture placement. Colorful and magnificent woodcarving works became popular in the Chaozhou-Shantou areas.",
+    "project": "",
+    "category": "",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "p_113",
+    "type": "paragraph",
+    "zh": "潮州木雕在祠堂、庙宇、民居等传统建筑上的应用十分流行，其中以祠堂木雕装饰最为精美，门厅、庑廊、拜亭、梁枋、屐头、挑檐、柱头、门楣、屏风、隔扇、门窗、栏杆、缠罩、檐板等部位大多饰以精巧细腻、金碧辉煌的木雕构件，整座建筑显得富丽堂皇，令人叹为观止。",
+    "en": "Chaozhou woodcarving is widely used in traditional buildings such as ancestral temples, Buddhist temples and folk houses. Decorative woodcarving is most exquisite in ancestral temples, with elaborate and magnificent woodcarving components in hallways, corridors, worship halls, beams, shoe ends, roof overhangs, column capitals, door heads, screens, partition boards, doors, windows, balusters and clapboards, which adds to the magnificence and charm of the whole buildings.",
+    "project": "",
+    "category": "",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "p_114",
+    "type": "paragraph",
+    "zh": "潮汕地区民间祭祀习俗隆重热烈，游神赛会活动热闹非凡，婚庆、寿礼等人生礼仪性活动铺张豪华，礼仪、祭祀、游神等活动中所用的器具十分讲究。",
+    "en": "The Chaozhou-Shantou people have a special enthusiasm for solemn ancestor worshiping ceremonies, crowded god worshiping parades, as well as extravagant weddings, birthdays and other personal celebrations. Utensils used in these events are all carefully selected according to certain considerations.",
+    "project": "",
+    "category": "",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "p_115",
+    "type": "paragraph",
+    "zh": "古色古香、金碧辉煌的金漆木雕器具既可显示财富地位，又可渲染活动气氛，因而大派用场。",
+    "en": "Consequently, antiquated and magnificent gilt wood decoration enjoys great popularity as it is not only a symbol of wealth and position, but also a promoter of atmosphere.",
+    "project": "",
+    "category": "",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "p_116",
+    "type": "paragraph",
+    "zh": "神龛、神亭、神轿、神椅、香几、宣炉罩、糖枋架、寿屏、果碟、馔盒等礼祭器具无不精雕细刻，装潢华丽，成为潮州木雕的重要门类。",
+    "en": "Shrines, booths, sedan chairs, armchairs, tables, incense burner covers, candy shelves, screens, fruits trays and food containers used in worshiping ceremonies are all finely and elaborately carved and colorfully decorated, which account for yet another category of Chaozhou woodcarving.",
+    "project": "",
+    "category": "",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "p_119",
+    "type": "paragraph",
+    "zh": "茶艺（潮州功夫茶艺）",
+    "en": "tea art（Chaozhou Congou Tea Art）",
+    "project": "潮州工夫茶艺",
+    "category": "民俗",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "p_120",
+    "type": "paragraph",
+    "zh": "潮州工夫茶艺是中国茶道的核心代表，在中国茶艺中最具代表性。它既是一种茶艺，也是一种民俗，是“潮人习尚风雅，举措高超”的象征。",
+    "en": "The \"Chaozhou Kungfu Tea\" is an important part of the project. It is the core representative of the Chinese tea ceremony and Chinese tea art. It is indeed a kind of tea art and a folk custom that symbolizes the Chaozhou people's elegant taste and habits of life.",
+    "project": "",
+    "category": "",
+    "strategy": "",
+    "source": "CCTN报道"
+  },
+  {
+    "id": "p_121",
+    "type": "paragraph",
+    "zh": "虽然盛行于闽粤港台地区，但潮州工夫茶艺的影响力早已遍及全国，远及海外。",
+    "en": "Although popular in Fujian, Guangdong, Hong Kong, and Taiwan, the influence of Chaozhou Kungfu Tea has already spread throughout the country and overseas.",
+    "project": "",
+    "category": "",
+    "strategy": "",
+    "source": "CCTN报道"
+  },
+  {
+    "id": "p_131",
+    "type": "paragraph",
+    "zh": "潮绣",
+    "en": "Chao Embroidery",
+    "project": "潮绣",
+    "category": "传统美术",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "p_132",
+    "type": "paragraph",
+    "zh": "刺绣用于服装、道具、寺庙装饰等。超绣有多种品种，如绒绣、钉金绣、金绒混合绣、线绣等。",
+    "en": "Embroidery is used for costumes, props, temple decorations, etc.Chaoembroidery has various varieties, such as velvet embroidery, nail gold embroidery, gold velvet mixed embroidery, thread embroidery, etc.",
+    "project": "潮绣",
+    "category": "",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "p_133",
+    "type": "paragraph",
+    "zh": "潮绣是越绣的一个分支。它在中国众多刺绣风格中脱颖而出。它的模式严谨且结构合理。使用的颜色丰富而华丽。它结合了金线、银线和毛线。这种混合产生了强烈的装饰效果。",
+    "en": "Chao embroidery is a branch of Yue embroidery. It stands out among many embroidery styles in China. Its patterns are rigorous and well-structured. The colours used are rich and magnificent. It combines gold, silver, and woollen threads. This mix creates a strong decorative effect.",
+    "project": "",
+    "category": "",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "p_134",
+    "type": "paragraph",
+    "zh": "潮绣以龙、凤、花、鸟、动物、水生人物为主题。其成品多用作日用品、祭品、鉴赏物品、戏剧服装、配饰等。其刺绣技法可分为铺、垫、钉、贴、缀五种。针线技艺有六角三折踏针锦、棉棉覆金针、双鼎鳞、棉绣菊花尺等200多种。",
+    "en": "Chao embroidery is themed around dragons, phoenixes, flowers, birds, animals, and aquatic characters. Its finished products are mostly used as daily necessities, sacrificial offerings, appreciation items, theatrical costumes, and accessories. Its embroidery techniques can be divided into five types: embroidery, padding, pasting, splicing, and embellishment. There are more than 200 types of needlework techniques, including hexagonal three-fold stepping needle brocade, padded cotton over the gold needle, double Ding scale, and padded embroidery chrysanthemum scales.",
+    "project": "",
+    "category": "",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "p_135",
+    "type": "paragraph",
+    "zh": "2006年5月20日，越绣（潮绣）被国务院批准列入第一批国家级非物质文化遗产名录，项目编号VII-20。",
+    "en": "On May 20, 2006, Yue embroidery (Chao embroidery) was approved by the State Council to be included in the first batch of the national intangible cultural heritage list, with project number VII-20.",
+    "project": "",
+    "category": "",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "p_136",
+    "type": "paragraph",
+    "zh": "按刺绣技法可分为绒绣、线绣、钉金绣、金绒混合绣四大类。具体方法有铺、垫、钉、贴、缀等，针线活技法有200多种。刺绣用于服装、道具、寺庙装饰等。",
+    "en": "According to embroidery techniques, it can be divided into four categories: velvet, thread embroidery, gold and silver thread embroidery, and gold velvet mixed embroidery. The specific methods include embroidery, padding, pasting, splicing, and embellishment, with more than 200 needlework techniques. Embroidery is used for costumes, props, temple decorations, etc.",
+    "project": "",
+    "category": "",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "p_137",
+    "type": "paragraph",
+    "zh": "在潮州，房屋的屋脊、檐口和外墙总是用砖雕或石雕装饰;但木雕安装在门窗和前走廊的门楣和门楣上。至于折叠屏风、桌子、床、橱柜和灯芯等家具，都用木雕装饰。过去，木雕在祭祀仪式中使用的物品中非常常见，例如帐幕和烛台。",
+    "en": "In Chaozhou, the ridge, brim and the external wall of the houses are always decorated with brick carving or stone carving; but the wood carvings are installed on the lintels and chapiters of the doors, windows and the front corridors. As for furniture such as folding screens, tables, beds, cupboards and lampwicks all are decorated with wood carvings. In the past wood carvings were very commonly found in articles used in sacrificial ceremonies such as tabernacles and candleholders.",
+    "project": "",
+    "category": "",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "p_138",
+    "type": "paragraph",
+    "zh": "潮洲木雕早在唐代（618-907）就开始了，在宋代（960-1279）和明代（1368-1644）发展迅速。它在清朝（1644-1911）达到顶峰。清末民初，华侨洪泯海而归，修建了许多祖庙和宏伟的房屋。他们在华丽的建筑中使用了大量的潮州木雕。现在的木雕大多是那个时期的。",
+    "en": "Choazhou woodcarving began as early as the Tang Dynasty (618-907), and developed rapidly in the Song (960-1279) and Ming (1368-1644) Dynasties. It reached its peak in the Qing Dynasty (1644-1911). At the end of the Qing Dynasty and the beginning of the Republic of China, overseas Chinese came back in floods to build many ancestral temples and magnificent houses. They used a great deal of Chaozhou wood carving in their splendid buildings. Most of the present-day wood carvings are from that period.",
+    "project": "",
+    "category": "",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "p_139",
+    "type": "paragraph",
+    "zh": "潮州木雕采用当地木材。当然，木材的选择因木雕而异。例如，建筑中使用的木雕总是用冷杉制成，家具中使用的木雕总是用樟脑制成。",
+    "en": "Local lumber is used for Chaozhou wood carving. Of course, the choice of lumber varies according to the wood carving. For example, wood carvings used in architecture are always made of fir and wood carvings used in furniture are always made of camphor.",
+    "project": "",
+    "category": "",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "p_140",
+    "type": "paragraph",
+    "zh": "潮州木雕与老百姓的生活和感情、品味息息相关。其题材通常来自深受民间喜爱的神话、传说、戏剧和历史故事。同时，花卉、动物和几何图案等那些东西也是潮州木雕的主题。",
+    "en": "Chaozhou wood carving is closely related to the life of the common people and their feelings and taste. Its themes usually come from mythology, legends, dramas and historical stories popular among the people. At the same time, those things such as flowers, animals and geometry patterns are also themes of Chaozhou wood carving.",
+    "project": "",
+    "category": "",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "p_141",
+    "type": "paragraph",
+    "zh": "潮州木雕师采用多种方法，包括：浮雕、凹雕、圆雕、穿透雕等。修补黄金的方法包括涂上金色的黑色油漆、五色金色装饰和整体修补金色。",
+    "en": "Chaozhou wood carvers use a variety of methods including: relief carving, concave carving, circular carving, and penetrative carving. Methods for patching gold include black paint varnished in gold, five-color gold decoration and over-all patching gold.",
+    "project": "",
+    "category": "",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "p_142",
+    "type": "paragraph",
+    "zh": "潮州刺绣是中国著名的刺绣之一。它有着悠久的历史。潮州刺绣始于唐代，在明清时期开始为人所知。民间流传着一些有趣的典故，如：针线典故、将军狗头、鸟姨等等。潮州刺绣具有浓郁的地方风情。构图饱满，针迹多样，纹理清晰，金银线镶体，支撑地高，色彩浓郁，装饰性强。",
+    "en": "Chaozhou embroidery is one of the famous embroideries in China. It has a long history. Chaozhou embroidery began in the Tang Dynasty and became well-known in the Ming and Qing Dynasties. Some interesting allusions are circulated among the people, such as: needlecraft allusions, general dog head, aunt bird and so on. Chaozhou embroidery has a strong local style. It has full composition, various stitches, clear texture, gold and silver thread inlays, high supporting ground, strong color, and strong decorativeness.",
+    "project": "",
+    "category": "",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "p_143",
+    "type": "paragraph",
+    "zh": "潮州刺绣最大的特点是技艺。潮州刺绣有五大技艺。其中，丁锦绣最为独特，就是在绣花地板上放一些棉絮，最高一寸多。然后绣上金色的绒线，使刺绣看起来像浮雕，富有立体感。这种刺绣在四大名绣中是独一无二的。",
+    "en": "潮州刺绣最大的特点是技艺。潮州刺绣有五大技艺。其中，丁锦绣最为独特，就是在绣花地板上放一些棉絮，最高一寸多。然后绣上金色的绒线，使刺绣看起来像浮雕，富有立体感。这种刺绣在四大名绣中是独一无二的。",
+    "project": "",
+    "category": "",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "p_144",
+    "type": "paragraph",
+    "zh": "潮绣，是潮州地区刺绣艺术的总称，与广绣合称“粤绣”，为中国四大名绣之一。其技艺精妙，图样华美，色彩瑰丽，以“立体垫高”“钉金绣法”著称于世，是潮州文化的生动名片，更是中国刺绣遗产中独具一格的瑰宝。",
+    "en": "Chaozhou embroidery, the umbrella term for the needle arts of the Chaozhou region, is paired with Guangdong embroidery under the name  \"Yue embroidery\" and ranks among China's four great embroidery traditions. Celebrated for its exquisite craftsmanship, opulent designs, and brilliant palette, it is famed worldwide for the \"three-dimensional padding\" and \"gold-thread couching\" techniques. This vibrant emblem of Chaozhou culture stands as a singular gem within China's broader embroidery heritage.",
+    "project": "",
+    "category": "",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "p_145",
+    "type": "paragraph",
+    "zh": "潮绣在表现竹子、花鸟等元素时，并不刻意绣出阴影，而是通过色彩渐变与层次变化营造光影。这一手法源于中国美学“虚实相生”的理念。相较于直白的阴影刻画，色彩与层次的含蓄处理把想象的空间还给观者，使其自行补足光影，从而传递出悠长而灵动的东方意境，也体现了传统工艺对“留白”精神的独特诠释。",
+    "en": "When portraying bamboo, birds, or flowers, Chaozhou embroidery does not stitch shadows; instead, it evokes light and shade through subtle color gradients and layered tones. Rooted in the Chinese aesthetic principle of \"the interplay of substance and void\", this approach relinquishes explanatory detail to the viewer. By inviting the audience to complete the play of light in their mind, the embroidery delivers a lingering, fluid Eastern ambience. It offers a distinctive interpretation of the art of Blank-leaving.",
+    "project": "",
+    "category": "",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "p_160",
+    "type": "paragraph",
+    "zh": "陶器烧制技艺（枫溪手拉朱泥壶制作技艺）",
+    "en": "",
+    "project": "手拉朱泥壶制作技艺",
+    "category": "传统技艺",
+    "strategy": "",
+    "source": ""
+  },
+  {
+    "id": "p_161",
+    "type": "paragraph",
+    "zh": "潮州陶罐或潮州手拉陶罐，是中国陶瓷的瑰宝，也是潮州茶文化的基石。这种艺术形式已有 600 多年的历史。它体现了潮州工匠的聪明才智。它抓住了“功夫茶”的精髓。这种仪式性的饮茶传统在中国南方备受推崇。",
+    "en": "The Teochew clay teapot or Chaozhou Hand-pulled Clay Teapot, is a gem of Chinese ceramics and a cornerstone of Teochew’s tea culture. This art form has a history of over 600 years. It reflects the ingenuity of Teochew artisans. It captures the essence of “Kung Fu Tea.” This ritualistic tea-drinking tradition is revered in southern China.",
+    "project": "",
+    "category": "",
+    "strategy": "",
+    "source": "Chaozhou (Teochew) Cultural Websites"
+  },
+  {
+    "id": "p_162",
+    "type": "paragraph",
+    "zh": "潮州陶壶起源于明清时期，从不起眼的“土壶”演变为岭南文化的标志性符号。到了18世纪，这些茶壶成为冲泡凤凰乌龙茶的必备品，甚至在乾隆时代作为皇家贡品献上。",
+    "en": "Originating in the Ming and Qing dynasties, Teochew clay teapots evolved from humble “earth pots” to iconic symbols of Lingnan culture. By the 18th century, these teapots became essential for brewing ​Phoenix Oolong tea and were even presented as imperial tributes during the Qianlong era.",
+    "project": "",
+    "category": "",
+    "strategy": "",
+    "source": "Chaozhou (Teochew) Cultural Websites"
+  },
+  {
+    "id": "p_163",
+    "type": "paragraph",
+    "zh": "如今，它们被认定为国家级非物质文化遗产（2014 年）和国家地理标志产品（2018 年）。",
+    "en": "Today, they are recognized as a ​National Intangible Cultural Heritage (2014) and a ​National Geographical Indication Product (2018).",
+    "project": "",
+    "category": "",
+    "strategy": "",
+    "source": "Chaozhou (Teochew) Cultural Websites"
+  },
+  {
+    "id": "p_164",
+    "type": "paragraph",
+    "zh": "这些茶壶的设计紧凑（80-150 毫升）和薄壁可集中热量和香气，非常适合冲泡精致的乌龙茶或陈年普洱茶。",
+    "en": "The compact design (80–150 ml) and thin walls of these teapots concentrate heat and aroma, perfect for brewing delicate oolongs or aged pu’er.",
+    "project": "",
+    "category": "",
+    "strategy": "",
+    "source": "Chaozhou (Teochew) Cultural Websites"
+  },
+  {
+    "id": "p_165",
+    "type": "paragraph",
+    "zh": "选用潮州含铁量≥6%的粘土赤泥，经过粉碎、冶炼、时效等工艺，使泥浆兼具柔韧性和透气性。烧制后，壶身呈现出温暖的土黄色或紫红色，既实用又具有观赏性。",
+    "en": "​The clay red mud with an iron content of ≥6% in Chaozhou is selected, and the mud is crushed, smelted, aged and other processes to make the mud have both flexibility and air permeability. After firing, the body of the pot presents a warm earthy yellow or purple red, which is both practical and ornamental.",
+    "project": "",
+    "category": "",
+    "strategy": "",
+    "source": "Chaozhou (Teochew) Cultural Websites"
+  },
+  {
+    "id": "p_166",
+    "type": "paragraph",
+    "zh": "工匠使用 300 RPM 的陶轮。他们徒手塑造富含铁的当地粘土。他们在 0.2 秒内执行捏、按和挤压技术。这实现了完美的对称性。",
+    "en": "Artisans use a 300-RPM pottery wheel. They shape iron-rich local clay with bare hands. They execute pinching, pressing, and squeezing techniques in 0.2-second bursts. This achieves flawless symmetry.",
+    "project": "",
+    "category": "",
+    "strategy": "",
+    "source": "Chaozhou (Teochew) Cultural Websites"
+  },
+  {
+    "id": "p_167",
+    "type": "paragraph",
+    "zh": "在素胚上，将不同颜色的泥土捻在一起，创造出山水、花鸟等，或者通过留白来创造意境。",
+    "en": "On the plain embryo, different colors of mud are twisted together to create landscapes, flowers and birds, etc., or to create an artistic conception by leaving blank space.",
+    "project": "",
+    "category": "",
+    "strategy": "",
+    "source": "Chaozhou (Teochew) Cultural Websites"
+  },
+  {
+    "id": "p_168",
+    "type": "paragraph",
+    "zh": "潮州陶瓷制作历史悠久，用料选取本地陶矿红泥加工而成。其制作过程要经过近六十道工序，烧制的成品既具有工艺美感，更具有实用功能。",
+    "en": "The Chaozhou clay pot has a long history of production. It ismadeof red clay from local pottery ore. There are nearly 60 steps to making it, and the finished product has both an aesthetic feeling and practical function.",
+    "project": "",
+    "category": "",
+    "strategy": "",
+    "source": "CCTN报道"
+  },
+  {
+    "id": "p_169",
+    "type": "paragraph",
+    "zh": "潮州手拉朱泥壶获批国家地理标志保护产品，不仅能够让更多人认识和了解潮州手拉朱泥壶，也能传递出潮州传统手工艺匠人的智慧和魅力",
+    "en": "Chaozhou hand-pulled Zhu clay pots have been approved as protected products, which not only enables more people to know and understand clay pots, but also conveys the wisdom and charm of Chaozhou’s traditional craftsmen.",
+    "project": "",
+    "category": "",
+    "strategy": "",
+    "source": "CCTN报道"
+  }
+]
